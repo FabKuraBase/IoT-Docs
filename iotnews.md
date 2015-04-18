@@ -19,6 +19,9 @@
 [「とりあえずＩｏＴ」は思考の怠惰　本質は人間の理解 ](http://www.nikkei.com/article/DGXMZO85328330W5A400C1000000/)
 
 [IoTで“5つの競争要因”はどう変わるのか (1/3)](http://monoist.atmarkit.co.jp/mn/articles/1504/16/news009.html)
+<hr>
+2014/4/15<br>
+[図研がインテルプラットフォームを使用したIoT機器の開発を効率化](http://monoist.atmarkit.co.jp/mn/articles/1504/15/news120.html)
 
 <hr>
 2015/4/14<br>
