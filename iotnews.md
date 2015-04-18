@@ -8,6 +8,8 @@
 2015/4/17<br>
 [PTC、「デジタルとリアルをつなげる」IoTを事業の中核に--拡張現実も活用](http://japan.zdnet.com/article/35063304/)
 
+[「製造業革命」日本に焦り　ＩｏＴ、独はオープン方式で実績 ](http://www.nikkei.com/article/DGXLASDZ16HQX_W5A410C1TJ2000/)
+
 <hr>
 2015/4/16<br>
 [「IoT」革命、すべてのモノがネットにつながる時代が到来？](http://zuuonline.com/archives/54201)
