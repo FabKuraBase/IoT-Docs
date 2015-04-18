@@ -34,6 +34,9 @@
 <hr>
 2015/4/9<br>
 [もはや国境は意識しない、日本発IoTスタートアップの強みと課題](http://jp.techcrunch.com/2015/04/09/jp20150408nes-iot/)
+
+[IoTセンサーデータを収集・分析するシステム基盤製品](http://itpro.nikkeibp.co.jp/atcl/news/15/040901248/)
+
 <hr>
 2015/4/8<br>
 [IoTが交通・運輸ビジネスを一変させる理由 (1/2)](http://www.itmedia.co.jp/enterprise/articles/1504/08/news028.html)
