@@ -15,6 +15,10 @@
 [「とりあえずＩｏＴ」は思考の怠惰　本質は人間の理解 ](http://www.nikkei.com/article/DGXMZO85328330W5A400C1000000/)
 
 <hr>
+2015/4/14<br>
+[インテル、Atom x3シリーズのロードマップを拡張。IoT向け製品を今年後半から出荷](http://japanese.engadget.com/2015/04/14/atom-x3-iot/)
+
+<hr>
 2015/4/13<br>
 [100万台超の複合機をグローバルに結ぶ！ キヤノンの基幹サービスを支えるIoT基盤の全容 (1/3)](http://www.atmarkit.co.jp/ait/articles/1503/25/news005.html)
 
