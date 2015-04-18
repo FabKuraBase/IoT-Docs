@@ -44,6 +44,10 @@
 2015/4/7<br>
 [IBMの「IoT」投資にみる国産ベンダーの課題](http://japan.zdnet.com/article/35062794/)
 <hr>
+2015/4/6<br>
+[【デブサミ2015】19-B-4 レポート
+IoTは総合格闘技である ～組み込み、IT、インフラ、セキュリティ――幅広い知識の習得が不可欠](http://codezine.jp/article/detail/8562)
+<hr>
 2015/3/26<br>
 [月額400円以下でIoT用のモバイル通信を実現するArduino互換モジュール「Spark Electron」](http://gigazine.net/news/20150326-spark-electron/)
 
