@@ -21,6 +21,9 @@
 [IoTの老舗団体「IPSO Alliance」は何を手助けするか (1/2)](http://monoist.atmarkit.co.jp/mn/articles/1504/16/news035.html)
 
 [IoTで“5つの競争要因”はどう変わるのか (1/3)](http://monoist.atmarkit.co.jp/mn/articles/1504/16/news009.html)
+
+[IMG、IoT機器などに向けたWi-Fi/Bluetooth SmartコンビネーションIPを発表](http://news.mynavi.jp/news/2015/04/16/307/)
+
 <hr>
 2014/4/15<br>
 [図研がインテルプラットフォームを使用したIoT機器の開発を効率化](http://monoist.atmarkit.co.jp/mn/articles/1504/15/news120.html)
