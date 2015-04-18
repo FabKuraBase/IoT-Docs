@@ -4,5 +4,3 @@
 * [IoT動向](iotnews.md)
 * [IoTマーケティング](iotmarket.md)
 
-
-
