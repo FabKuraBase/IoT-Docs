@@ -72,6 +72,10 @@ IoTは総合格闘技である ～組み込み、IT、インフラ、セキュ�
 
 [IoT規格に統一の動き、ThreadとZigBeeが協業へ (1/2)](http://eetimes.jp/ee/articles/1504/06/news057.html)
 <hr>
+2015/4/3<br>
+[NTT ComとSOINN、クラウド上のAIでIoT関連ビッグデータを迅速に精製・分析する基盤を開発](http://thinkit.co.jp/news_event/2015/04/03/5840)
+
+<hr>
 2015/4/2<br>
 [IoT向けのWi-Fi規格「IEEE802.11ah」って何？](http://businessnetwork.jp/Detail/tabid/65/artid/3878/Default.aspx)
 <hr>
