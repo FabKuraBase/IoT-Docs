@@ -23,6 +23,8 @@
 2014/4/15<br>
 [図研がインテルプラットフォームを使用したIoT機器の開発を効率化](http://monoist.atmarkit.co.jp/mn/articles/1504/15/news120.html)
 
+[これぞＩｏＴ、ベアリングにも「知能」注入](http://www.nikkei.com/article/DGXMZO85714170V10C15A4000000/)
+
 <hr>
 2015/4/14<br>
 [インテル、Atom x3シリーズのロードマップを拡張。IoT向け製品を今年後半から出荷](http://japanese.engadget.com/2015/04/14/atom-x3-iot/)
