@@ -31,6 +31,8 @@
 
 [NTTPCなど、SIM付組込みボードとIoTプラットフォームをワンストップで提供](http://news.mynavi.jp/news/2015/04/15/046/)
 
+[アドバンテックとMBEL、IoT分野のソリューション販売で協業](http://news.mynavi.jp/news/2015/04/15/371/)
+
 <hr>
 2015/4/14<br>
 [インテル、Atom x3シリーズのロードマップを拡張。IoT向け製品を今年後半から出荷](http://japanese.engadget.com/2015/04/14/atom-x3-iot/)
