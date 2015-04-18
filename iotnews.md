@@ -78,6 +78,10 @@ IoTは総合格闘技である ～組み込み、IT、インフラ、セキュ�
 2015/3/31<br>
 [Facebook参入で見えた「IoT戦国時代」の到来](http://forbesjapan.com/translation/post_3311.html)
 <hr>
+
+2015/3/30<br>
+[Firefox OSを採用したIoT時代のコアデバイス「Runcible」とは](http://news.mynavi.jp/articles/2015/03/30/firefox/)
+<hr>
 2015/3/26<br>
 [月額400円以下でIoT用のモバイル通信を実現するArduino互換モジュール「Spark Electron」](http://gigazine.net/news/20150326-spark-electron/)
 
