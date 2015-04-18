@@ -12,7 +12,11 @@
 2015/4/16<br>
 [「IoT」革命、すべてのモノがネットにつながる時代が到来？](http://zuuonline.com/archives/54201)
 
+[「とりあえずＩｏＴ」は思考の怠惰　本質は人間の理解 ](http://www.nikkei.com/article/DGXMZO85328330W5A400C1000000/)
+
 <hr>
 2015/4/13<br>
 [100万台超の複合機をグローバルに結ぶ！ キヤノンの基幹サービスを支えるIoT基盤の全容 (1/3)](http://www.atmarkit.co.jp/ait/articles/1503/25/news005.html)
+
+[日本のものづくりに最適なIoTプラットフォームとは？Kiiの最高製品責任者が語る](http://news.mynavi.jp/articles/2015/04/13/kii_cpo_lot/)
 
