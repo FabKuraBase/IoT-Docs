@@ -42,6 +42,10 @@
 [100万台超の複合機をグローバルに結ぶ！ キヤノンの基幹サービスを支えるIoT基盤の全容 (1/3)](http://www.atmarkit.co.jp/ait/articles/1503/25/news005.html)
 
 [日本のものづくりに最適なIoTプラットフォームとは？Kiiの最高製品責任者が語る](http://news.mynavi.jp/articles/2015/04/13/kii_cpo_lot/)
+
+[センサーをばらまいても、通信する電力が足りない
+IoT社会の実現に不可欠な“ウルトラローパワー”技術](http://techon.nikkeibp.co.jp/article/COLUMN/20150408/413229/?ST=bigdata&P=1)
+
 <hr>
 2015/4/9<br>
 [もはや国境は意識しない、日本発IoTスタートアップの強みと課題](http://jp.techcrunch.com/2015/04/09/jp20150408nes-iot/)
