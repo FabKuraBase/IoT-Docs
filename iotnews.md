@@ -62,6 +62,9 @@ IoTは総合格闘技である ～組み込み、IT、インフラ、セキュ�
 2015/4/1<br>
 [IBMがIoT部門を設立--The Weather Companyとの提携も発表](http://japan.zdnet.com/article/35062557/)
 <hr>
+2015/3/31<br>
+[Facebook参入で見えた「IoT戦国時代」の到来](http://forbesjapan.com/translation/post_3311.html)
+<hr>
 2015/3/26<br>
 [月額400円以下でIoT用のモバイル通信を実現するArduino互換モジュール「Spark Electron」](http://gigazine.net/news/20150326-spark-electron/)
 
