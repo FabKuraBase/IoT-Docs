@@ -72,4 +72,6 @@ IoTは総合格闘技である ～組み込み、IT、インフラ、セキュ�
 2015/3/26<br>
 [月額400円以下でIoT用のモバイル通信を実現するArduino互換モジュール「Spark Electron」](http://gigazine.net/news/20150326-spark-electron/)
 
+[「Windows Embedded」は「Windows 10 IoT」へ、組み込み機器向けに3製品を投入](http://monoist.atmarkit.co.jp/mn/articles/1503/26/news083.html)
+
 
