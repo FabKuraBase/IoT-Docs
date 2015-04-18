@@ -43,7 +43,8 @@
 <hr>
 2015/4/7<br>
 [IBMの「IoT」投資にみる国産ベンダーの課題](http://japan.zdnet.com/article/35062794/)
-
-
+<hr>
+2015/3/26<br>
+[月額400円以下でIoT用のモバイル通信を実現するArduino互換モジュール「Spark Electron」](http://gigazine.net/news/20150326-spark-electron/)
 
 
