@@ -20,6 +20,8 @@
 2015/4/14<br>
 [インテル、Atom x3シリーズのロードマップを拡張。IoT向け製品を今年後半から出荷](http://japanese.engadget.com/2015/04/14/atom-x3-iot/)
 
+[電池の束縛」から解放　ＩｏＴで脚光、振動発電 ](http://www.nikkei.com/article/DGXMZO84891020W5A320C1000000/)
+
 <hr>
 2015/4/13<br>
 [100万台超の複合機をグローバルに結ぶ！ キヤノンの基幹サービスを支えるIoT基盤の全容 (1/3)](http://www.atmarkit.co.jp/ait/articles/1503/25/news005.html)
