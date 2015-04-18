@@ -62,6 +62,9 @@ IoT社会の実現に不可欠な“ウルトラローパワー”技術](http:/
 2015/4/6<br>
 [【デブサミ2015】19-B-4 レポート
 IoTは総合格闘技である ～組み込み、IT、インフラ、セキュリティ――幅広い知識の習得が不可欠](http://codezine.jp/article/detail/8562)
+
+[IoT規格に統一の動き、ThreadとZigBeeが協業へ (1/2)](http://eetimes.jp/ee/articles/1504/06/news057.html)
+
 <hr>
 2015/4/1<br>
 [IBMがIoT部門を設立--The Weather Companyとの提携も発表](http://japan.zdnet.com/article/35062557/)
