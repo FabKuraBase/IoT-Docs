@@ -29,6 +29,8 @@
 
 [再送-UPDATE 1-ＩｏＴ取り組み、年度内に規制見直しやガイドライン策定＝産構審](http://jp.reuters.com/article/marketsNews/idJPL4N0XC1OX20150415)
 
+[NTTPCなど、SIM付組込みボードとIoTプラットフォームをワンストップで提供](http://news.mynavi.jp/news/2015/04/15/046/)
+
 <hr>
 2015/4/14<br>
 [インテル、Atom x3シリーズのロードマップを拡張。IoT向け製品を今年後半から出荷](http://japanese.engadget.com/2015/04/14/atom-x3-iot/)
