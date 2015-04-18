@@ -29,6 +29,8 @@
 
 [電池の束縛」から解放　ＩｏＴで脚光、振動発電 ](http://www.nikkei.com/article/DGXMZO84891020W5A320C1000000/)
 
+[焦点：ＩoＴ導入へ競争力会議で議論、具体策握る成長戦略の命運](http://www.newsweekjapan.jp/headlines/business/2015/04/147511_1.php)
+
 <hr>
 2015/4/13<br>
 [100万台超の複合機をグローバルに結ぶ！ キヤノンの基幹サービスを支えるIoT基盤の全容 (1/3)](http://www.atmarkit.co.jp/ait/articles/1503/25/news005.html)
