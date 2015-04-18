@@ -59,6 +59,9 @@ IoT社会の実現に不可欠な“ウルトラローパワー”技術](http:/
 <hr>
 2015/4/8<br>
 [IoTが交通・運輸ビジネスを一変させる理由 (1/2)](http://www.itmedia.co.jp/enterprise/articles/1504/08/news028.html)
+
+[創造性を鍛えるには--IoT提唱者が勧める失敗から学ばせる教育](http://japan.zdnet.com/article/35062805/)
+
 <hr>
 2015/4/7<br>
 [IBMの「IoT」投資にみる国産ベンダーの課題](http://japan.zdnet.com/article/35062794/)
