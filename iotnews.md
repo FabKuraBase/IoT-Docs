@@ -148,6 +148,9 @@ IoTは総合格闘技である ～組み込み、IT、インフラ、セキュ�
 2015/1/13<br>
 [トヨタIT開発センター、クルマと連携するIoTデバイスを開発するハッカソン](http://business.nikkeibp.co.jp/article/bigdata/20150111/276048/?bpnet)
 <hr>
+2015/1/8<br>
+[What to expect next: A cloud platform for the Internet of things](http://venturebeat.com/2015/01/08/what-to-expect-next-a-cloud-platform-for-the-internet-of-things/)
+<hr>
 2014/12/5<br>
 [ヤフーがIoT促進に開発支援プラットフォームを提供、ワイモバイルとの連携も](http://monoist.atmarkit.co.jp/mn/articles/1412/05/news056.html)
 <hr>
