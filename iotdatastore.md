@@ -13,7 +13,8 @@
 |zatar|[http://www.zatar.com/developer-zone](http://www.zatar.com/developer-zone)|
 |data.sparkfun.com|[https://data.sparkfun.com/streams/](https://data.sparkfun.com/streams/)|
 |Carriots|[https://www.carriots.com/](https://www.carriots.com/)|
-|grooves stream|[https://grovestreams.com/](https://grovestreams.com/)
+|grooves stream|[https://grovestreams.com/](https://grovestreams.com/)|
+|sensor clound|[http://www.sensorcloud.com/](http://www.sensorcloud.com/)|
 
 ## Graphイメージ
 ### xively
