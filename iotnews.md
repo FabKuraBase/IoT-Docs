@@ -4,7 +4,7 @@
 2015/4/20<br>
 [IT部門こそIoTシステム構築の鍵を握る--IBMのエキスパート](http://japan.zdnet.com/article/35063346/)
 
-
+[インテル連合のM2M/IoT向けセキュリティ対策とは？――「電子証明書で“本物”を特定」](http://businessnetwork.jp/Detail/tabid/65/artid/3931/Default.aspx)
 
 <hr>
 2015/4/18<br>
