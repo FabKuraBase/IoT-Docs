@@ -12,6 +12,7 @@
 2015/4/18<br>
 [IoT時代のPLMベンダー、求められる構想設計の強化--ALMやSLMの連携で中核に](http://japan.zdnet.com/article/35063224/)
 
+[ハイアールアジア、埼玉県熊谷市に世界最大規模の研究開発拠点開設](http://economic.jp/?p=48694)
 <hr>
 2015/4/17<br>
 [PTC、「デジタルとリアルをつなげる」IoTを事業の中核に--拡張現実も活用](http://japan.zdnet.com/article/35063304/)
@@ -19,6 +20,8 @@
 [「製造業革命」日本に焦り　ＩｏＴ、独はオープン方式で実績 ](http://www.nikkei.com/article/DGXLASDZ16HQX_W5A410C1TJ2000/)
 
 [ＮＴＴコム、ＩｏＴ向けシステム世界展開　188カ国で ](http://www.nikkei.com/article/DGXLASDZ10IJU_X10C15A4TJ1000/)
+
+[アナログ腕時計ながら、スマホと連携して活動量や睡眠を管理　普段使いしやすいデバイス登場](http://www.huffingtonpost.jp/engadget-japan/withings_b_7083912.html)
 
 <hr>
 2015/4/16<br>
@@ -85,6 +88,10 @@ IoT社会の実現に不可欠な“ウルトラローパワー”技術](http:/
 IoTは総合格闘技である ～組み込み、IT、インフラ、セキュリティ――幅広い知識の習得が不可欠](http://codezine.jp/article/detail/8562)
 
 [IoT規格に統一の動き、ThreadとZigBeeが協業へ (1/2)](http://eetimes.jp/ee/articles/1504/06/news057.html)
+
+
+[富士通が初公開した「新Web OS技術」は世界に広がるか (1/2)](http://www.itmedia.co.jp/enterprise/articles/1504/06/news050.html)
+
 <hr>
 2015/4/3<br>
 [NTT ComとSOINN、クラウド上のAIでIoT関連ビッグデータを迅速に精製・分析する基盤を開発](http://thinkit.co.jp/news_event/2015/04/03/5840)
@@ -108,6 +115,10 @@ IoTは総合格闘技である ～組み込み、IT、インフラ、セキュ�
 [月額400円以下でIoT用のモバイル通信を実現するArduino互換モジュール「Spark Electron」](http://gigazine.net/news/20150326-spark-electron/)
 
 [「Windows Embedded」は「Windows 10 IoT」へ、組み込み機器向けに3製品を投入](http://monoist.atmarkit.co.jp/mn/articles/1503/26/news083.html)
+<hr>
+2015/3/24<br>
+[あらゆる機器をIoTデバイスにするUIエンジン「paneE」](http://monoist.atmarkit.co.jp/mn/articles/1503/24/news094.html)
+
 <hr>
 2015/3/23<br>
 [創業130周年ボッシュ　IoT時代に出した「答え」 ](http://www.nikkei.com/article/DGXMZO84537640Y5A310C1000000/)
