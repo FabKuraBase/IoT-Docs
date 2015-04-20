@@ -132,7 +132,9 @@ IoTは総合格闘技である ～組み込み、IT、インフラ、セキュ�
 <hr>
 2015/2/15<br>
 [ARM mbedとIBM Bluemixが連携、IoT製品の高速プロトタイピング可能に](https://fabcross.jp/news/2014/10/20141006_kickstarter_sam.html)
-
+<hr>
+2015/2/9<br>
+[三菱電機、IoTデバイス向けにLSI組込型の暗号方式を開発](http://it.impressbm.co.jp/articles/-/12042)
 <hr>
 2015/1/13<br>
 [トヨタIT開発センター、クルマと連携するIoTデバイスを開発するハッカソン](http://business.nikkeibp.co.jp/article/bigdata/20150111/276048/?bpnet)
