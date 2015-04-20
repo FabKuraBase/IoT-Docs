@@ -9,5 +9,5 @@
 * [IoT Datastore](iotdatastore.md)
 * [IoT Security](iotsecurity.md)
 * [Device連携](iotconnect.md)
-* [6LowPan](6lowpan.md)
+* [6LowPAN](6lowpan.md)
 
