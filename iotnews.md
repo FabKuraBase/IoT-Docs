@@ -6,6 +6,8 @@
 
 [インテル連合のM2M/IoT向けセキュリティ対策とは？――「電子証明書で“本物”を特定」](http://businessnetwork.jp/Detail/tabid/65/artid/3931/Default.aspx)
 
+[IoTやウェアラブル通じたデジタルマーケティング、活用のための3つのポイントとは](http://www.sbbit.jp/article/cont1/29582)
+
 <hr>
 2015/4/18<br>
 [IoT時代のPLMベンダー、求められる構想設計の強化--ALMやSLMの連携で中核に](http://japan.zdnet.com/article/35063224/)
