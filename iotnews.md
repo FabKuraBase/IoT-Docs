@@ -86,6 +86,7 @@ IoTは総合格闘技である ～組み込み、IT、インフラ、セキュ�
 2015/4/3<br>
 [NTT ComとSOINN、クラウド上のAIでIoT関連ビッグデータを迅速に精製・分析する基盤を開発](http://thinkit.co.jp/news_event/2015/04/03/5840)
 
+[IoT参入の中小企業を後押し、欧州が920万ユーロを投入](http://eetimes.jp/ee/articles/1504/03/news083.html)
 <hr>
 2015/4/2<br>
 [IoT向けのWi-Fi規格「IEEE802.11ah」って何？](http://businessnetwork.jp/Detail/tabid/65/artid/3878/Default.aspx)
