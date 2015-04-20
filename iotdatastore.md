@@ -11,4 +11,4 @@
 |senseIot|[http://www.sense-iot.com/](http://www.sense-iot.com/)|
 |TempoIQ|[https://app.tempoiq.com](https://app.tempoiq.com)|
 |zatar|[http://www.zatar.com/developer-zone](http://www.zatar.com/developer-zone)|
-
+|data.sparkfun.com|[https://data.sparkfun.com/streams/](https://data.sparkfun.com/streams/)|
