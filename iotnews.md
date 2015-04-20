@@ -125,7 +125,9 @@ IoTは総合格闘技である ～組み込み、IT、インフラ、セキュ�
 <hr>
 2015/3/17<br>
 [モノのインターネット化が加速する！WEBサービスのトリガーになる「Hackey」](http://nge.jp/2015/03/17/post-99086)
-
+<hr>
+2015/3/4<br>
+[IoT／M2Mサービスを提供するためのPaaS、Sensinicsが提供開始](http://it.impressbm.co.jp/articles/-/12122)
 <hr>
 2015/3/3<br>
 [アプリと実店舗の連携を加速！IoTプラットフォーム「O:der Connect」リリース](http://markezine.jp/article/detail/22051)
