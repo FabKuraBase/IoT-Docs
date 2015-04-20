@@ -15,6 +15,7 @@
 |Carriots|[https://www.carriots.com/](https://www.carriots.com/)|
 |grooves stream|[https://grovestreams.com/](https://grovestreams.com/)|
 |sensor clound|[http://www.sensorcloud.com/](http://www.sensorcloud.com/)|
+|Thing Speak|[https://thingspeak.com](https://thingspeak.com)
 
 ## Graphイメージ
 ### xively
@@ -43,6 +44,9 @@
 
 ### sensor cloud
 ![](sensorcloud.png)
+
+### Thing Speak
+
 
 ## 参考になるリンク
 * [http://www.netlabtoolkit.org/overview/](http://www.netlabtoolkit.org/overview/)
