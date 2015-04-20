@@ -123,6 +123,10 @@ IoTは総合格闘技である ～組み込み、IT、インフラ、セキュ�
 2015/3/23<br>
 [創業130周年ボッシュ　IoT時代に出した「答え」 ](http://www.nikkei.com/article/DGXMZO84537640Y5A310C1000000/)
 <hr>
+2015/3/17<br>
+[モノのインターネット化が加速する！WEBサービスのトリガーになる「Hackey」](http://nge.jp/2015/03/17/post-99086)
+
+<hr>
 2015/3/3<br>
 [アプリと実店舗の連携を加速！IoTプラットフォーム「O:der Connect」リリース](http://markezine.jp/article/detail/22051)
 <hr>
