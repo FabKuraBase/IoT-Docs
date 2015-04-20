@@ -6,4 +6,6 @@
 ||Carriots|
 |Xively|LogMeIn|
 ||Axiros|
+|Scalenics Device Platform|Scalenics|
+
 
