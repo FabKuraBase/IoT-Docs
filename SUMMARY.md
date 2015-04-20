@@ -7,4 +7,5 @@
 * [IoT Paas](iotpass.md)
 * [Industry 4.0動向](iotgerman.md)
 * [IoT Datastore](iotdatastore.md)
+* [IoT Security](iotsecurity.md)
 
