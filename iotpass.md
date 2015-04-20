@@ -7,5 +7,7 @@
 |Xively|LogMeIn|
 ||Axiros|
 |Scalenics Device Platform|Sensinics|
+|Bluemix IoT Zone|IBM|
+
 
 
