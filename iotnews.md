@@ -76,6 +76,9 @@ IoT社会の実現に不可欠な“ウルトラローパワー”技術](http:/
 <hr>
 2015/4/7<br>
 [IBMの「IoT」投資にみる国産ベンダーの課題](http://japan.zdnet.com/article/35062794/)
+
+[エンバカデロ、IoTデバイスとの連携やモバイル対応を強化した「RAD Studio XE8」を4月8日に発売](http://codezine.jp/article/detail/8623)
+
 <hr>
 2015/4/6<br>
 [【デブサミ2015】19-B-4 レポート
