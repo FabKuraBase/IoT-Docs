@@ -8,4 +8,5 @@
 * [Industry 4.0動向](iotgerman.md)
 * [IoT Datastore](iotdatastore.md)
 * [IoT Security](iotsecurity.md)
+* [Device連携](iotconnect.md)
 
