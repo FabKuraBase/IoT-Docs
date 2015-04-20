@@ -10,5 +10,8 @@
 |Bluemix IoT Zone|IBM|
 |IoT PaaS ONE|ハニーポット|
 
+MQTT, CoAP, XMPP
+
+
 
 
