@@ -139,6 +139,9 @@ IoTは総合格闘技である ～組み込み、IT、インフラ、セキュ�
 2015/1/13<br>
 [トヨタIT開発センター、クルマと連携するIoTデバイスを開発するハッカソン](http://business.nikkeibp.co.jp/article/bigdata/20150111/276048/?bpnet)
 <hr>
+2014/12/5<br>
+[ヤフーがIoT促進に開発支援プラットフォームを提供、ワイモバイルとの連携も](http://monoist.atmarkit.co.jp/mn/articles/1412/05/news056.html)
+<hr>
 2014/11/14<br>
 [スマホとWebSocketで連携するテレビ用SPA（Single-Page Application）の作り方 (1/5)](http://www.atmarkit.co.jp/ait/articles/1411/13/news187.html)
 <hr>
