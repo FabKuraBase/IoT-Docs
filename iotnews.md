@@ -125,6 +125,9 @@ IoTは総合格闘技である ～組み込み、IT、インフラ、セキュ�
 <hr>
 2015/3/3<br>
 [アプリと実店舗の連携を加速！IoTプラットフォーム「O:der Connect」リリース](http://markezine.jp/article/detail/22051)
+<hr>
+2015/2/15<br>
+[ARM mbedとIBM Bluemixが連携、IoT製品の高速プロトタイピング可能に](https://fabcross.jp/news/2014/10/20141006_kickstarter_sam.html)
 
 <hr>
 2015/1/13<br>
