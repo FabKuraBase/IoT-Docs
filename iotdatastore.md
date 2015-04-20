@@ -10,5 +10,5 @@
 |2lementry|[http://2lemetry.com/iot-platform/](http://2lemetry.com/iot-platform/)|
 |senseIot|[http://www.sense-iot.com/](http://www.sense-iot.com/)|
 |TempoIQ|[https://app.tempoiq.com](https://app.tempoiq.com)|
-
+|zatar|[http://www.zatar.com/developer-zone](http://www.zatar.com/developer-zone)|
 
