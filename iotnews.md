@@ -128,6 +128,8 @@ IoTは総合格闘技である ～組み込み、IT、インフラ、セキュ�
 <hr>
 2015/3/10<br>
 [Microchip、IoT向け低電力無線WAN「LoRaWAN」対応の無線モジュールを発表](http://techon.nikkeibp.co.jp/article/NEWS/20150310/408300/)
+
+[IoT開発プラットフォーム「IoT PaaS ONE」サービス提供開始](http://news.biglobe.ne.jp/economy/0310/prt_150310_4712924810.html)
 <hr>
 2015/3/4<br>
 [IoT／M2Mサービスを提供するためのPaaS、Sensinicsが提供開始](http://it.impressbm.co.jp/articles/-/12122)
