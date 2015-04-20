@@ -1,6 +1,12 @@
 # IoT動向
 
 <hr>
+2015/4/20<br>
+[IT部門こそIoTシステム構築の鍵を握る--IBMのエキスパート](http://japan.zdnet.com/article/35063346/)
+
+
+
+<hr>
 2015/4/18<br>
 [IoT時代のPLMベンダー、求められる構想設計の強化--ALMやSLMの連携で中核に](http://japan.zdnet.com/article/35063224/)
 
