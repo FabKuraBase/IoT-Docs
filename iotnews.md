@@ -126,4 +126,6 @@ IoTは総合格闘技である ～組み込み、IT、インフラ、セキュ�
 <hr>
 2015/1/13<br>
 [トヨタIT開発センター、クルマと連携するIoTデバイスを開発するハッカソン](http://business.nikkeibp.co.jp/article/bigdata/20150111/276048/?bpnet)
-
+<hr>
+2014/10/6<br>
+[ネットに繋がるIoTデバイスを作れるワイヤレス電子ブロック「SAM」](https://fabcross.jp/news/2014/10/20141006_kickstarter_sam.html)
