@@ -1,9 +1,9 @@
 # IoT Paas
 
-| 0:0 | 1:0 |
+|商品名|会社名|
 | -- | -- |
-|Ayla Networks |  |
-|Carriots||
-|LogMeIn|Xively|
-|Axiros||
+| |Ayla Networks|
+||Carriots|
+|Xively|LogMeIn|
+||Axiros|
 
