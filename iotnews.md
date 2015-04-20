@@ -112,4 +112,7 @@ IoTは総合格闘技である ～組み込み、IT、インフラ、セキュ�
 2015/3/23<br>
 [創業130周年ボッシュ　IoT時代に出した「答え」 ](http://www.nikkei.com/article/DGXMZO84537640Y5A310C1000000/)
 
+<hr>
+2015/1/13<br>
+[トヨタIT開発センター、クルマと連携するIoTデバイスを開発するハッカソン](http://business.nikkeibp.co.jp/article/bigdata/20150111/276048/?bpnet)
 
