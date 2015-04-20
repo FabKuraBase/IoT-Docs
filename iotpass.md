@@ -8,6 +8,7 @@
 ||Axiros|
 |Scalenics Device Platform|Sensinics|
 |Bluemix IoT Zone|IBM|
+|IoT PaaS ONE|ハニーポット|
 
 
 
