@@ -11,4 +11,5 @@
 * [Device連携](iotconnect.md)
 * [6LowPAN](6lowpan.md)
 * [CoAP](coap.md)
+* [LWM2M](lwm2m.md)
 
