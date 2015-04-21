@@ -8,3 +8,4 @@ CoRE Resource Directory
 
 http://tools.ietf.org/html/draft-ietf-core-resource-directory-01
 
+
