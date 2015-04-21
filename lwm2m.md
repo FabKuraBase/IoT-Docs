@@ -5,3 +5,5 @@ OMNA Lightweight M2Mの略
 OMA LWM2M DevKit
 
 https://github.com/OpenMobileAlliance/OMA-LWM2M-DevKit
+
+IoT MiddlewareのためのサーバProfileを定義
