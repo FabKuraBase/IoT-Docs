@@ -1,4 +1,5 @@
 # LWM2M
+OMNA Lightweight M2Mの略
 
 ## 開発環境
 OMA LWM2M DevKit
