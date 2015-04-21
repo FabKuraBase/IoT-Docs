@@ -14,4 +14,3 @@
 * [CORE](core.md)
 * [LWM2M](lwm2m.md)
 
-
