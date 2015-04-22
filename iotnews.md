@@ -1,4 +1,7 @@
 # IoT動向
+<hr>
+2015/4/21<br>
+[ＩｏＴ革命：日本に必要な「３つのＤ」＝アクセンチュア・立花氏](http://jp.reuters.com/article/topNews/idJPKBN0NC09720150421)
 
 <hr>
 2015/4/20<br>
