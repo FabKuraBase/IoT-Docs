@@ -14,4 +14,5 @@
 * [CoRE](core.md)
 * [LWM2M](lwm2m.md)
 * [IPSO Object](ipsoobject.md)
+* [IIC動向](iicusa.md)
 
