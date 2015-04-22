@@ -4,6 +4,9 @@
 [ＩｏＴ革命：欧米とは対立より協調を＝富士通・永嶋氏](http://jp.reuters.com/article/topNews/idJPKBN0ND07520150422?pageNumber=4&virtualBrandChannel=0)
 
 [アットマークテクノとユビキタス、IoT/M2M市場向け協業強化](http://monoist.atmarkit.co.jp/mn/articles/1504/22/news145.html)
+
+[東芝「FlashAir」は眼前の機器をIoTデバイスに“変身”させる](http://monoist.atmarkit.co.jp/mn/articles/1504/22/news161.html)
+
 <hr>
 2015/4/21<br>
 [ＩｏＴ革命：日本に必要な「３つのＤ」＝アクセンチュア・立花氏](http://jp.reuters.com/article/topNews/idJPKBN0NC09720150421)
