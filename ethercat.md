@@ -1,6 +1,8 @@
 # EtherCAT
 
 ## Beckhoff
+EtherCATはBeckhoffが開発したオープンなリアルタイムイーサネット
+
 http://www.ethercat.org/jp.htm
 
 ##EtherCAT対応チップ
