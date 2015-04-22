@@ -7,6 +7,8 @@
 
 [東芝「FlashAir」は眼前の機器をIoTデバイスに“変身”させる](http://monoist.atmarkit.co.jp/mn/articles/1504/22/news161.html)
 
+[地震発生時の復旧スピードを高める“家のIoT”、ミサワホームとKDDIが共同開発](http://www.itmedia.co.jp/enterprise/articles/1504/22/news155.html)
+
 <hr>
 2015/4/21<br>
 [ＩｏＴ革命：日本に必要な「３つのＤ」＝アクセンチュア・立花氏](http://jp.reuters.com/article/topNews/idJPKBN0NC09720150421)
