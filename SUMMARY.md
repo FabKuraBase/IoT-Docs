@@ -16,4 +16,5 @@
 * [IPSO Object](ipsoobject.md)
 * [IIC動向](iicusa.md)
 * [EtherCAT](ethercat.md)
+* [Wifi/LTE](wifi.md)
 
