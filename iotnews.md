@@ -1,8 +1,10 @@
 # IoT動向
 <hr>
+2015/4/22<br>
+[ＩｏＴ革命：欧米とは対立より協調を＝富士通・永嶋氏](http://jp.reuters.com/article/topNews/idJPKBN0ND07520150422?pageNumber=4&virtualBrandChannel=0)
+<hr>
 2015/4/21<br>
 [ＩｏＴ革命：日本に必要な「３つのＤ」＝アクセンチュア・立花氏](http://jp.reuters.com/article/topNews/idJPKBN0NC09720150421)
-
 <hr>
 2015/4/20<br>
 [IT部門こそIoTシステム構築の鍵を握る--IBMのエキスパート](http://japan.zdnet.com/article/35063346/)
