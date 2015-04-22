@@ -11,3 +11,4 @@
 
 * [Microchip、物理層回路も集積したEtherCAT対応のスレーブ制御ICを発売、IoT用途向け](http://techon.nikkeibp.co.jp/article/NEWS/20150420/415123/)
 * [Infineon、「Industry 4.0」に向けたEtherCAT対応の32ビットマイコンを発売](http://techon.nikkeibp.co.jp/article/NEWS/20150415/414422/)
+* [インダストリー4.0を追い風にPC制御オートメーションの領域を拡大するベッコフ](http://monoist.atmarkit.co.jp/mn/articles/1504/20/news045.html)
