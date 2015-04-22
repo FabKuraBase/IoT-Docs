@@ -4,7 +4,7 @@
 
 | 型番 | メーカー |
 | -- | -- |
-| [LAN9252](http://www.microchip.com/wwwproducts/Devices.aspx?product=LAN9252#utm_medium=Press-Release&utm_term=LAN9252_PR_4-16-15&utm_content=UNG&utm_campaign=LAN9252) | Microchip | |
+| [LAN9252](http://www.microchip.com/wwwproducts/Devices.aspx?product=LAN9252#utm_medium=Press-Release&utm_term=LAN9252_PR_4-16-15&utm_content=UNG&utm_campaign=LAN9252) | Microchip | 
 | [XMC4800](https://www.infineon.com/cms/en/product/promopages/xmc4800/) | infineon||
 
 ## News
