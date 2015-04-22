@@ -12,6 +12,10 @@
 [ＩｏＴ革命：日本に必要な「３つのＤ」＝アクセンチュア・立花氏](http://jp.reuters.com/article/topNews/idJPKBN0NC09720150421)
 
 [IoTで“10年後の暮らし”はどう変わる？――技術に詳しいIEEE会員の見方は](http://www.itmedia.co.jp/enterprise/articles/1504/21/news032.html)
+
+[IoTで勝てる自信の表れ？
+「製造業回帰」を宣言したＧＥの行く末](http://diamond.jp/articles/-/70521)
+
 <hr>
 2015/4/20<br>
 [IT部門こそIoTシステム構築の鍵を握る--IBMのエキスパート](http://japan.zdnet.com/article/35063346/)
