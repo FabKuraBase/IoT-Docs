@@ -1,6 +1,6 @@
 # EtherCAT
 
-## Beckoff
+## Beckhoff
 http://www.ethercat.org/jp.htm
 
 ##EtherCAT対応チップ
