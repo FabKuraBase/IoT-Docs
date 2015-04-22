@@ -5,6 +5,9 @@
 [インダストリー4.0で日独の協力関係はあり得るのか（前編） (1/2)](http://monoist.atmarkit.co.jp/mn/articles/1504/17/news028.html)
 
 [インダストリー4.0という巨大なエンジンが回り始めた](http://blogos.com/article/110291/)
+<hr>
+2015/4/15<br>
+[Infineon、「Industry 4.0」に向けたEtherCAT対応の32ビットマイコンを発売](http://techon.nikkeibp.co.jp/article/NEWS/20150415/414422/?rt=nocnt)
 
 <hr>
 2015/4/13<br>
