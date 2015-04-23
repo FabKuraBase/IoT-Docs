@@ -1,6 +1,7 @@
 # Industry 4.0動向
 
 <hr>
+
 2015/4/22<br>
 [Huawei & NXP Join Forces on Industry 4.0](http://www.ebnonline.com/author.asp?section_id=3560&doc_id=277314)
 
