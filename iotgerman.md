@@ -17,6 +17,8 @@
 2015/4/16<br>
 [コネクタから実現するインダストリー4.0、ハーティングが自社実践を出展](http://monoist.atmarkit.co.jp/mn/articles/1504/16/news036.html)
 
+[インダストリー4.0は機械学習で守る](http://techon.nikkeibp.co.jp/article/EVENT/20150416/414646/?rt=nocnt)
+
 <hr>
 2015/4/15<br>
 [Infineon、「Industry 4.0」に向けたEtherCAT対応の32ビットマイコンを発売](http://techon.nikkeibp.co.jp/article/NEWS/20150415/414422/?rt=nocnt)
