@@ -13,6 +13,9 @@
 [インダストリー4.0で日独の協力関係はあり得るのか（前編） (1/2)](http://monoist.atmarkit.co.jp/mn/articles/1504/17/news028.html)
 
 [インダストリー4.0という巨大なエンジンが回り始めた](http://blogos.com/article/110291/)
+
+[BTO生産を完全自動化、安川電機の考える「インダストリー4.0」](http://monoist.atmarkit.co.jp/mn/articles/1504/17/news098.html)
+
 <hr>
 2015/4/16<br>
 [コネクタから実現するインダストリー4.0、ハーティングが自社実践を出展](http://monoist.atmarkit.co.jp/mn/articles/1504/16/news036.html)
