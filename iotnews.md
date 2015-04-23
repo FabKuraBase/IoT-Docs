@@ -7,6 +7,8 @@
 
 [IoTデバイスにリッチなUIと豊富な機能をQtで提供、SRA](http://monoist.atmarkit.co.jp/mn/articles/1504/23/news113.html)
 
+[スマホ画面に置くだけで認識されるプラスチック「スタンプ」を発明したSnowShoeが350万ドルを調達](http://jp.techcrunch.com/2015/04/23/20150422backed-by-3-5-million-snowshoe-debuts-clever-plastic-stamps-that-unlock-content-on-mobile-phones/)
+
 <hr>
 2015/4/22<br>
 [ＩｏＴ革命：欧米とは対立より協調を＝富士通・永嶋氏](http://jp.reuters.com/article/topNews/idJPKBN0ND07520150422?pageNumber=4&virtualBrandChannel=0)
