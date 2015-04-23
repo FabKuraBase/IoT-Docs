@@ -3,6 +3,8 @@
 2015/4/23<br>
 [IKEAの家具が無接点充電「Qi」を内蔵、欧米でまもなく発売](http://pc.watch.impress.co.jp/docs/news/20150423_699176.html?ref=rss)
 
+[ＩｏＴ革命：マイナンバーで金融資産課税も俎上に＝伊藤・東大院教授](http://jp.reuters.com/article/topNews/idJPKBN0NE0BQ20150423)
+
 <hr>
 2015/4/22<br>
 [ＩｏＴ革命：欧米とは対立より協調を＝富士通・永嶋氏](http://jp.reuters.com/article/topNews/idJPKBN0ND07520150422?pageNumber=4&virtualBrandChannel=0)
