@@ -5,6 +5,8 @@
 
 [ＩｏＴ革命：マイナンバーで金融資産課税も俎上に＝伊藤・東大院教授](http://jp.reuters.com/article/topNews/idJPKBN0NE0BQ20150423)
 
+[IoTデバイスにリッチなUIと豊富な機能をQtで提供、SRA](http://monoist.atmarkit.co.jp/mn/articles/1504/23/news113.html)
+
 <hr>
 2015/4/22<br>
 [ＩｏＴ革命：欧米とは対立より協調を＝富士通・永嶋氏](http://jp.reuters.com/article/topNews/idJPKBN0ND07520150422?pageNumber=4&virtualBrandChannel=0)
