@@ -1,5 +1,9 @@
 # IoT動向
 <hr>
+2015/4/27<br>
+[PTC、IoTカンファレンス「LiveWorx 2015」の開催を発表](http://news.mynavi.jp/news/2015/04/27/338/)
+
+<hr>
 2015/4/23<br>
 [IKEAの家具が無接点充電「Qi」を内蔵、欧米でまもなく発売](http://pc.watch.impress.co.jp/docs/news/20150423_699176.html?ref=rss)
 
@@ -52,6 +56,8 @@
 [ＮＴＴコム、ＩｏＴ向けシステム世界展開　188カ国で ](http://www.nikkei.com/article/DGXLASDZ10IJU_X10C15A4TJ1000/)
 
 [アナログ腕時計ながら、スマホと連携して活動量や睡眠を管理　普段使いしやすいデバイス登場](http://www.huffingtonpost.jp/engadget-japan/withings_b_7083912.html)
+
+
 
 <hr>
 2015/4/16<br>
