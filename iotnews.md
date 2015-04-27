@@ -3,6 +3,8 @@
 2015/4/27<br>
 [PTC、IoTカンファレンス「LiveWorx 2015」の開催を発表](http://news.mynavi.jp/news/2015/04/27/338/)
 
+[「“サーバーは止まるもの”を前提とするCassandraの実装はIoTと相性がいい」説](http://www.atmarkit.co.jp/ait/articles/1504/27/news021.html)
+
 <hr>
 2015/4/23<br>
 [IKEAの家具が無接点充電「Qi」を内蔵、欧米でまもなく発売](http://pc.watch.impress.co.jp/docs/news/20150423_699176.html?ref=rss)
