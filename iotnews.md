@@ -5,6 +5,10 @@
 
 [「“サーバーは止まるもの”を前提とするCassandraの実装はIoTと相性がいい」説](http://www.atmarkit.co.jp/ait/articles/1504/27/news021.html)
 
+[IT政策研究会：ドローンとIoT](http://blogos.com/article/110974/)
+
+[M2M/IoTのビジネスモデルから最新プラットフォーム、「3GPP」「oneM2M」標準までを網羅した決定版！『インプレス標準教科書シリーズ M2M/IoT教科書』5月1日（金）に発売](http://prtimes.jp/main/html/rd/p/000000686.000005875.html)
+
 <hr>
 2015/4/23<br>
 [IKEAの家具が無接点充電「Qi」を内蔵、欧米でまもなく発売](http://pc.watch.impress.co.jp/docs/news/20150423_699176.html?ref=rss)
