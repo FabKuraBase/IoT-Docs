@@ -2,6 +2,8 @@
 <hr>
 2015/4/28<br>
 [ジグソーの山川社長「監視カメラや自販機向けＩｏＴ伸ばす」](http://www.nikkei.com/markets/kigyo/management.aspx?g=DGXMZO8624462028042015000000)
+
+[7 Important Points In Preparing For The Internet of Things](http://www.forbes.com/sites/oracle/2015/04/28/7-important-points-in-preparing-for-the-internet-of-things/)
 <hr>
 2015/4/27<br>
 [PTC、IoTカンファレンス「LiveWorx 2015」の開催を発表](http://news.mynavi.jp/news/2015/04/27/338/)
