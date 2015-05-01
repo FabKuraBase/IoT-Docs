@@ -3,6 +3,10 @@
 2015/4/30<br>
 [Hitachi bets big on Internet of Things, sees $2-trillion business opportunity](http://economictimes.indiatimes.com/articleshow/47102831.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst)
 
+[IoT Workloads Up 750% by 2019: IDC](http://www.datamation.com/data-center/iot-workloads-up-750-by-2019-idc.html)
+
+
+
 <hr>
 2015/4/28<br>
 [ジグソーの山川社長「監視カメラや自販機向けＩｏＴ伸ばす」](http://www.nikkei.com/markets/kigyo/management.aspx?g=DGXMZO8624462028042015000000)
