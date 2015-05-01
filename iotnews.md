@@ -8,6 +8,9 @@
 [IoT platform to grow to €2.4bn in 2020](http://advanced-television.com/2015/04/30/iot-platform-to-grow-to-e2-4bn-in-2020-%E2%80%A8/)
 
 <hr>
+2015/4/29<br>
+[Windows 10 + Raspberry Pi 2: //build IoT Core Maker Robot Kit](https://www.youtube.com/watch?v=aKCieb-Gf2g)
+<hr>
 2015/4/28<br>
 [ジグソーの山川社長「監視カメラや自販機向けＩｏＴ伸ばす」](http://www.nikkei.com/markets/kigyo/management.aspx?g=DGXMZO8624462028042015000000)
 
