@@ -18,3 +18,4 @@ REST API using JSON, XML, RDF, core-link-format
 | Open Interconect Consorcium | http://openinterconnect.org/|
 | IP500 Alliance | http://www.ip500.org/ |
 | Thread Group | http://threadgroup.org/ |
+| IPSO Alliance | http://www.ipso-alliance.org/ |
