@@ -5,6 +5,8 @@
 
 [The holographic robot uprising: Microsoft shows off its IoT ambitions](http://arstechnica.com/information-technology/2015/04/29/the-holographic-robot-uprising-microsoft-shows-off-its-iot-ambitions/)
 
+[Microsoft targets IoT on its road to 1 billion Windows devices](http://www.techradar.com/news/software/operating-systems/microsoft-targets-iot-on-its-road-to-1-billion-windows-devices-1292584)
+
 [IoT Workloads Up 750% by 2019: IDC](http://www.datamation.com/data-center/iot-workloads-up-750-by-2019-idc.html)
 
 [IoT platform to grow to €2.4bn in 2020](http://advanced-television.com/2015/04/30/iot-platform-to-grow-to-e2-4bn-in-2020-%E2%80%A8/)
