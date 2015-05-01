@@ -31,6 +31,8 @@
 2015/4/13<br>
 [インダストリー4.0は、夢か現か幻か](http://techon.nikkeibp.co.jp/article/EVENT/20150412/413860/?rt=nocnt)
 
+[Industry 4.0 at the starting gates](http://www.dw.de/industry-40-at-the-starting-gates/a-18379432)
+
 <hr>
 2015/2/27<br>
 [インダストリー4.0とは一味違う「IoTファクトリーコントローラ」](http://monoist.atmarkit.co.jp/mn/articles/1502/17/news097.html)
