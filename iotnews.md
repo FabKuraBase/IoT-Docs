@@ -46,6 +46,8 @@
 2015/4/23<br>
 [IKEAの家具が無接点充電「Qi」を内蔵、欧米でまもなく発売](http://pc.watch.impress.co.jp/docs/news/20150423_699176.html?ref=rss)
 
+[$117 Billion Market For Internet of Things In Healthcare By 2020](http://www.forbes.com/sites/tjmccue/2015/04/22/117-billion-market-for-internet-of-things-in-healthcare-by-2020/)
+
 [ＩｏＴ革命：マイナンバーで金融資産課税も俎上に＝伊藤・東大院教授](http://jp.reuters.com/article/topNews/idJPKBN0NE0BQ20150423)
 
 [IoTデバイスにリッチなUIと豊富な機能をQtで提供、SRA](http://monoist.atmarkit.co.jp/mn/articles/1504/23/news113.html)
