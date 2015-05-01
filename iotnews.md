@@ -1,6 +1,8 @@
 # IoT動向
 <hr>
 2015/4/30<br>
+[米ＩｏＴ標準化団体、日本に新組織を５月設立　トヨタ、日立など参加](http://www.sankei.com/economy/news/150430/ecn1504300006-n1.html)
+
 [Hitachi bets big on Internet of Things, sees $2-trillion business opportunity](http://economictimes.indiatimes.com/articleshow/47102831.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst)
 
 [The holographic robot uprising: Microsoft shows off its IoT ambitions](http://arstechnica.com/information-technology/2015/04/29/the-holographic-robot-uprising-microsoft-shows-off-its-iot-ambitions/)
