@@ -20,3 +20,4 @@ REST API using JSON, XML, RDF, core-link-format
 | Thread Group | http://threadgroup.org/ |
 | IPSO Alliance | http://www.ipso-alliance.org/ |
 | M2M World Alliance | http://www.m2mworldalliance.com/ |
+| OMA LWM2M | http://openmobilealliance.org/about-oma/work-program/m2m-enablers/ |
