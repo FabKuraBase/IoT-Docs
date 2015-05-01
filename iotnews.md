@@ -1,5 +1,8 @@
 # IoT動向
 <hr>
+2015/5/1<br>
+[IoTを根幹から支えるイスラエルの暗号技術スタートアップ、Discretix](http://ascii.jp/elem/000/000/995/995916/)
+<hr>
 2015/4/30<br>
 [米ＩｏＴ標準化団体、日本に新組織を５月設立　トヨタ、日立など参加](http://www.sankei.com/economy/news/150430/ecn1504300006-n1.html)
 
