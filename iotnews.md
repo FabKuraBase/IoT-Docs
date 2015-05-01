@@ -21,6 +21,7 @@
 
 [Intel declares IoT is here now](http://www.channelweb.co.uk/crn-uk/feature/2406526/intel-declares-iot-is-here-now)
 
+[NXP CEO on China, Apple Pay, IoT & V2V](http://www.eetimes.com/document.asp?doc_id=1326498)
 <hr>
 2015/4/28<br>
 [ジグソーの山川社長「監視カメラや自販機向けＩｏＴ伸ばす」](http://www.nikkei.com/markets/kigyo/management.aspx?g=DGXMZO8624462028042015000000)
