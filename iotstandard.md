@@ -19,3 +19,4 @@ REST API using JSON, XML, RDF, core-link-format
 | IP500 Alliance | http://www.ip500.org/ |
 | Thread Group | http://threadgroup.org/ |
 | IPSO Alliance | http://www.ipso-alliance.org/ |
+| M2M World Alliance | http://www.m2mworldalliance.com/ |
