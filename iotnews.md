@@ -3,6 +3,9 @@
 2015/4/30<br>
 [Hitachi bets big on Internet of Things, sees $2-trillion business opportunity](http://economictimes.indiatimes.com/articleshow/47102831.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst)
 
+[The holographic robot uprising: Microsoft shows off its IoT ambitions](http://arstechnica.com/information-technology/2015/04/29/the-holographic-robot-uprising-microsoft-shows-off-its-iot-ambitions/)
+
+
 [IoT Workloads Up 750% by 2019: IDC](http://www.datamation.com/data-center/iot-workloads-up-750-by-2019-idc.html)
 
 [IoT platform to grow to €2.4bn in 2020](http://advanced-television.com/2015/04/30/iot-platform-to-grow-to-e2-4bn-in-2020-%E2%80%A8/)
