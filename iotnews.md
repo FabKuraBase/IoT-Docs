@@ -17,6 +17,8 @@
 
 [How To Install Windows 10 IoT On Your Raspberry Pi 2](http://techcrunch.com/2015/04/30/how-to-install-windows-10-iot-on-your-raspberry-pi-2/#.itg9oq:0fsV)
 
+[IoT manufacturers must get wireless right: This North Carolina nonprofit can help](http://www.techrepublic.com/article/iot-manufacturers-must-get-wireless-right-this-north-carolina-nonprofit-can-help/)
+
 <hr>
 2015/4/28<br>
 [ジグソーの山川社長「監視カメラや自販機向けＩｏＴ伸ばす」](http://www.nikkei.com/markets/kigyo/management.aspx?g=DGXMZO8624462028042015000000)
