@@ -5,7 +5,6 @@
 
 [The holographic robot uprising: Microsoft shows off its IoT ambitions](http://arstechnica.com/information-technology/2015/04/29/the-holographic-robot-uprising-microsoft-shows-off-its-iot-ambitions/)
 
-
 [IoT Workloads Up 750% by 2019: IDC](http://www.datamation.com/data-center/iot-workloads-up-750-by-2019-idc.html)
 
 [IoT platform to grow to €2.4bn in 2020](http://advanced-television.com/2015/04/30/iot-platform-to-grow-to-e2-4bn-in-2020-%E2%80%A8/)
@@ -13,6 +12,9 @@
 <hr>
 2015/4/29<br>
 [Windows 10 + Raspberry Pi 2: //build IoT Core Maker Robot Kit](https://www.youtube.com/watch?v=aKCieb-Gf2g)
+
+[How To Install Windows 10 IoT On Your Raspberry Pi 2](http://techcrunch.com/2015/04/30/how-to-install-windows-10-iot-on-your-raspberry-pi-2/#.itg9oq:0fsV)
+
 <hr>
 2015/4/28<br>
 [ジグソーの山川社長「監視カメラや自販機向けＩｏＴ伸ばす」](http://www.nikkei.com/markets/kigyo/management.aspx?g=DGXMZO8624462028042015000000)
