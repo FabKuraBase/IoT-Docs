@@ -19,6 +19,8 @@
 
 [IoT manufacturers must get wireless right: This North Carolina nonprofit can help](http://www.techrepublic.com/article/iot-manufacturers-must-get-wireless-right-this-north-carolina-nonprofit-can-help/)
 
+[Intel declares IoT is here now](http://www.channelweb.co.uk/crn-uk/feature/2406526/intel-declares-iot-is-here-now)
+
 <hr>
 2015/4/28<br>
 [ジグソーの山川社長「監視カメラや自販機向けＩｏＴ伸ばす」](http://www.nikkei.com/markets/kigyo/management.aspx?g=DGXMZO8624462028042015000000)
