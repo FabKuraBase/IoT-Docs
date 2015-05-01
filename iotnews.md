@@ -6,6 +6,8 @@
 2015/4/30<br>
 [米ＩｏＴ標準化団体、日本に新組織を５月設立　トヨタ、日立など参加](http://www.sankei.com/economy/news/150430/ecn1504300006-n1.html)
 
+[「IoT」は今後、サプライチェーンや物流業界に約226兆円規模の利益をもたらす](http://prtimes.jp/main/html/rd/p/000000002.000013552.html)
+
 [ＩｏＴ革命：生産効率化は日本先行、国ぐるみの対応課題＝三菱電機・山本氏](http://jp.reuters.com/article/topNews/idJPKBN0NM36420150501?pageNumber=1&virtualBrandChannel=0)
 
 [Hitachi bets big on Internet of Things, sees $2-trillion business opportunity](http://economictimes.indiatimes.com/articleshow/47102831.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst)
