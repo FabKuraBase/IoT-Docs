@@ -48,6 +48,9 @@
 [IT政策研究会：ドローンとIoT](http://blogos.com/article/110974/)
 
 [M2M/IoTのビジネスモデルから最新プラットフォーム、「3GPP」「oneM2M」標準までを網羅した決定版！『インプレス標準教科書シリーズ M2M/IoT教科書』5月1日（金）に発売](http://prtimes.jp/main/html/rd/p/000000686.000005875.html)
+
+[Is ARM’s free-OS a game-changer?](http://www.electronicsweekly.com/distribution-world/comment/arms-free-os-game-changer-2015-04/)
+
 <hr>
 2015/4/24<br>
 [IoTで勝ち残るために選ばないといけない“10のポイント” (1/5)](http://monoist.atmarkit.co.jp/mn/articles/1504/24/news031.html)
