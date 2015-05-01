@@ -4,7 +4,7 @@
 [MQTTゲートウェイ「Fuji」をリリース](http://www.zaikei.co.jp/releases/247461/)
 <hr>
 2015/3/5<bt>
-[Eclipse updates MQTT tools](http://sdtimes.com/eclipse-updates-mqtt-tools/)
+[Eclipse updates MQTT tools](http://sdtimes.com/eclipse-updates-mqtt-tools/2)
 <hr>
 2014/12/9<br>
 [M2M/IoT を実現する商用 MQTT ブローカー「Akane」をリリース](http://prtimes.jp/main/html/rd/p/000000003.000011027.html)
