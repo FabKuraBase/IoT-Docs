@@ -6,6 +6,8 @@
 2015/5/1<br>
 [アクロディア、マンションデべロッパーと「インターホン向けIoTシステム」の提供に関して業務提携](http://www.sankei.com/economy/news/150501/prl1505010070-n1.html)
 
+[オムロン、国内外の自社工場をネットワーク化－ＩｏＴ活用し稼働状況など情報共有](http://www.nikkan.co.jp/news/nkx0320150501aaap.html)
+
 [IoTを根幹から支えるイスラエルの暗号技術スタートアップ、Discretix](http://ascii.jp/elem/000/000/995/995916/)
 <hr>
 2015/4/30<br>
