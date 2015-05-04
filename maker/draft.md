@@ -19,6 +19,16 @@
 | [Touch Stone](http://www.silabs.com/products/analog/Pages/default.aspx)| 2014/3/3|[PressRelease](http://news.silabs.com/press-release/corporate-news/silicon-labs-acquires-low-power-analog-ic-products) | $1.5百万 | 
 | [Bluegiga](http://www.bluegiga.com/) | 2015/2/3 | [PressRelease](http://news.silabs.com/press-release/corporate-news/silicon-labs-acquires-bluegiga-leader-bluetooth-and-wi-fi-connectivity-) | $61百万 |
 
+## Infineo
+
+### 本拠地
+ドイツ
+| 会社名 | 買収時期 | プレス | 買収額 |
+| -- | -- | -- | -- |
+| [International Rectifier Corporation](http://www.silabs.com/Pages/default.aspx) | 2013/7/3| 
+ 
+
+
 
 
 
