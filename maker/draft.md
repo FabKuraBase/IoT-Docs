@@ -11,7 +11,7 @@
 | 会社名 | 買収時期 |
 | -- | -- |
 | [Energy Micro](http://www.silabs.com/Pages/default.aspx) |
-| [TouchStone](http://www.silabs.com/products/analog/Pages/default.aspx)
+| [TouchStone](http://www.silabs.com/products/analog/Pages/default.aspx)|
 | [Bluegiga](http://www.bluegiga.com/) |
 
 
