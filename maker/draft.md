@@ -26,7 +26,7 @@
 
 | 会社名 | 買収時期 | プレス | 買収額 |
 | -- | -- | -- | -- |
-| [International Rectifier Corporation](http://www.irf.com/index) | 2014/8/20 | [PressRelease] (http://www.infineon.com/cms/jp/about-infineon/press/press-releases/2014/INFXX201408-056.html) | $30億
+| [International Rectifier Corporation](http://www.irf.com/index) | 2014/8/20 | [PressRelease](http://www.infineon.com/cms/jp/about-infineon/press/press-releases/2014/INFXX201408-056.html) | $30億
  
 
 
