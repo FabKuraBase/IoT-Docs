@@ -40,6 +40,12 @@
 | -- | -- | -- | -- |
 | [Hittite Microwave](http://www.hittite.com/) | 2014/7/22 | [PressRelease](https://www.hittite.com/press_releases/index.html/view/855) | $20億 |
 
+## NXP
+
+### 本拠地
+米国カリフォルニア
+
+
 
 
 
