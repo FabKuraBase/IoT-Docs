@@ -21,4 +21,5 @@
 * [Maker/NXP](maker/nxp.md)
 * [Maker/ARM](maker/arm.md)
 * [Maker/Atmel](maker/atmel.md)
+* [Maker/SiliconLab](maker/silicon.md)
 
