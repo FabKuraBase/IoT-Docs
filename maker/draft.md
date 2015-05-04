@@ -3,7 +3,9 @@
 
 | Maker | 2015/1Q |本拠地 |
 | -- | -- |
+| Broadcom |  $2,058百万 | 米国 カリフォルニア|
 | ST Micro |  $1,119百万 | スイス|
+| Silicon Labs | $163.7百万 | 米国 オースティング |
 
 
 ## Silicon Labs
