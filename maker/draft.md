@@ -5,3 +5,8 @@
 | -- | -- |
 | ST Micro |  $1,119百万 | スイス|
 
+
+## Silicon Labs
+
+Bluegiga買収
+
