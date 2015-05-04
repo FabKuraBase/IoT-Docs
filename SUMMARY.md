@@ -20,4 +20,5 @@
 * [MQTT](mqtt.md)
 * [Maker/NXP](maker/nxp.md)
 * [Maker/ARM](maker/arm.md)
+* [Maker/Atmel](maker/atmel.md)
 
