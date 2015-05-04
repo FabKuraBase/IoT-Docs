@@ -24,4 +24,5 @@
 * [Maker/ARM](maker/arm.md)
 * [Maker/Atmel](maker/atmel.md)
 * [Maker/SiliconLab](maker/silicon.md)
+* [Maker/Microchip](maker/microchip.md)
 
