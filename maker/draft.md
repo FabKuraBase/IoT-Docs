@@ -47,7 +47,7 @@
 
 | 会社名 | 買収時期 | プレス | 買収額 |
 | -- | -- | -- | -- |
-| [Freescale](http://www.freescale.com/) | |  | $20億 |
+| [Freescale](http://www.freescale.com/) | |  | $118億 |
 
 
 
