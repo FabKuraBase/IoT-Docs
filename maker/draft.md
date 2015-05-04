@@ -9,8 +9,7 @@
 ## Silicon Labs
 
 ### 本拠地
-Austin
-
+テキサス州 Austin
 
 | 会社名 | 買収時期 | プレス |
 | -- | -- | -- |
