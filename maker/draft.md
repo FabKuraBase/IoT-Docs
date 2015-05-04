@@ -23,9 +23,10 @@
 
 ### 本拠地
 ドイツ
+
 | 会社名 | 買収時期 | プレス | 買収額 |
 | -- | -- | -- | -- |
-| [International Rectifier Corporation](http://www.silabs.com/Pages/default.aspx) | 2013/7/3| 
+| [International Rectifier Corporation](http://www.irf.com/index) | | 
  
 
 
