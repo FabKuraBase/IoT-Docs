@@ -17,6 +17,7 @@
 * [IIC動向](iicusa.md)
 * [EtherCAT](ethercat.md)
 * [Wifi/LTE](wifi.md)
+* [V2X](v2x.md)
 * [MQTT](mqtt.md)
 * [Maker/NXP](maker/nxp.md)
 * [Maker/ARM](maker/arm.md)
