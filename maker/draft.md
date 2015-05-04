@@ -38,7 +38,7 @@
 
 | 会社名 | 買収時期 | プレス | 買収額 |
 | -- | -- | -- | -- |
-| [Hittite Microwave](http://www.hittite.com/) | 2014/8/20 | [PressRelease](http://www.infineon.com/cms/jp/about-infineon/press/press-releases/2014/INFXX201408-056.html) | $30億 |
+| [Hittite Microwave](http://www.hittite.com/) | 2014/7/22 | [PressRelease](https://www.hittite.com/press_releases/index.html/view/855) | $20億 |
 
 
 
