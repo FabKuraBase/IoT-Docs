@@ -8,7 +8,10 @@
 
 ## Silicon Labs
 
-[Energy Micro](http://www.silabs.com/Pages/default.aspx)
-[Bluegiga](http://www.bluegiga.com/)
+| 会社名 | 買収時期 |
+| -- | -- |
+| [Energy Micro](http://www.silabs.com/Pages/default.aspx) |
+
+| [Bluegiga](http://www.bluegiga.com/) |
 
 
