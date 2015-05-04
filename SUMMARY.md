@@ -19,6 +19,7 @@
 * [Wifi/LTE](wifi.md)
 * [V2X](v2x.md)
 * [MQTT](mqtt.md)
+* [チップMaker](maker/draft.md)
 * [Maker/NXP](maker/nxp.md)
 * [Maker/ARM](maker/arm.md)
 * [Maker/Atmel](maker/atmel.md)
