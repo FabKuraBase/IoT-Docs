@@ -8,5 +8,7 @@
 
 ## Silicon Labs
 
-Bluegiga買収
+[Energy Micro](http://www.silabs.com/Pages/default.aspx)
+[Bluegiga](http://www.bluegiga.com/)
+
 
