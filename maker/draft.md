@@ -29,14 +29,16 @@
 
 | 会社名 | 買収時期 | プレス | 買収額 |
 | -- | -- | -- | -- |
-| [International Rectifier Corporation](http://www.irf.com/index) | 2014/8/20 | [PressRelease](http://www.infineon.com/cms/jp/about-infineon/press/press-releases/2014/INFXX201408-056.html) | $30億
+| [International Rectifier Corporation](http://www.irf.com/index) | 2014/8/20 | [PressRelease](http://www.infineon.com/cms/jp/about-infineon/press/press-releases/2014/INFXX201408-056.html) | $30億 |
  
 ## Analog Devices
  
 ### 本拠地
 米国 マサチューセッツ
 
-
+| 会社名 | 買収時期 | プレス | 買収額 |
+| -- | -- | -- | -- |
+| [Hittite Microwave](http://www.hittite.com/) | 2014/8/20 | [PressRelease](http://www.infineon.com/cms/jp/about-infineon/press/press-releases/2014/INFXX201408-056.html) | $30億 |
 
 
 
