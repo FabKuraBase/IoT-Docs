@@ -5,6 +5,8 @@
 
 [IoTで生み出す“デジタルの双子”、新たに解析企業の買収なども発表 (1/2)](http://monoist.atmarkit.co.jp/mn/articles/1505/06/news008.html)
 
+[Mentor Graphics Enables Internet of Things Embedded Device Connectivity](http://money.cnn.com/news/newsfeeds/articles/prnewswire/SF98464.htm)
+
 <hr>
 2015/5/4<br>
 [Mobile payment, IoT, V2V drive NXP revenue to $1.5B
