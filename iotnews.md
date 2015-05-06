@@ -3,6 +3,8 @@
 2015/5/6<br>
 [「小さなエネルギーの落ち穂ひろい」がＩｏＴ時代の電源に変わる](http://newswitch.jp/p/511)
 
+[IoTで生み出す“デジタルの双子”、新たに解析企業の買収なども発表 (1/2)](http://monoist.atmarkit.co.jp/mn/articles/1505/06/news008.html)
+
 <hr>
 2015/5/4<br>
 [Mobile payment, IoT, V2V drive NXP revenue to $1.5B
