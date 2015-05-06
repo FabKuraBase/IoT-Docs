@@ -7,6 +7,8 @@
 
 [Mentor Graphics Enables Internet of Things Embedded Device Connectivity](http://money.cnn.com/news/newsfeeds/articles/prnewswire/SF98464.htm)
 
+[【LiveWorx 2015】「飛行機の搭乗券が使えたところで何なんだ」 - 米Apple共同創業者のスティーブ・ウォズニアックが語るApple Watch](http://news.biglobe.ne.jp/it/0506/mnn_150506_3131723816.html)
+
 <hr>
 2015/5/4<br>
 [Mobile payment, IoT, V2V drive NXP revenue to $1.5B
