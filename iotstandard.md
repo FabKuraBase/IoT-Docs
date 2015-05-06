@@ -22,3 +22,4 @@ REST API using JSON, XML, RDF, core-link-format
 | M2M World Alliance | http://www.m2mworldalliance.com/ |
 | OMA LWM2M | http://openmobilealliance.org/about-oma/work-program/m2m-enablers/ |
 | ETSI SmartM2M | https://portal.etsi.org/tb.aspx?tbid=726&SubTB=726 |
+| AMQP | https://www.amqp.org/ |
