@@ -1,5 +1,9 @@
 # IoT動向
 <hr>
+2015/5/6<br>
+[「小さなエネルギーの落ち穂ひろい」がＩｏＴ時代の電源に変わる](http://newswitch.jp/p/511)
+
+<hr>
 2015/5/4<br>
 [Mobile payment, IoT, V2V drive NXP revenue to $1.5B
 
