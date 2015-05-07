@@ -14,6 +14,8 @@ Middlewareまで含む
 
 MQTT, CoAP, XMPP
 
+ThingWorxは？
+
 # IoT Saas
 
 MiddlewareとApplicationまで含む
