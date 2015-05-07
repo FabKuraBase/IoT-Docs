@@ -16,6 +16,12 @@ MQTT, CoAP, XMPP
 
 ThingWorxは？
 
+# IoT Baas
+
+|商品名|会社名|
+| -- | -- |
+| Kii Clound | Kii |
+
 # IoT Saas
 
 MiddlewareとApplicationまで含む
