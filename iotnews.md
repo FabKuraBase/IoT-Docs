@@ -9,6 +9,8 @@
 
 [【LiveWorx 2015】「飛行機の搭乗券が使えたところで何なんだ」 - 米Apple共同創業者のスティーブ・ウォズニアックが語るApple Watch](http://news.biglobe.ne.jp/it/0506/mnn_150506_3131723816.html)
 
+[SAP Unveils SAP HANA Cloud Platform for the Internet of Things - See more at: http://www.news-sap.com/sapphire-now-sap-hana-cloud-platform-for-the-iot/#sthash.xiMZkBLb.dpuf](http://www.news-sap.com/sapphire-now-sap-hana-cloud-platform-for-the-iot/)
+
 <hr>
 2015/5/4<br>
 [Mobile payment, IoT, V2V drive NXP revenue to $1.5B
