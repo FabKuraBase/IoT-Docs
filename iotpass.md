@@ -16,6 +16,8 @@ MQTT, CoAP, XMPP
 
 # IoT Saas
 
+MiddlewareとApplicationまで含む
+
 |商品名|会社名|
 | -- | -- |
 |Hana IoT |SAP|
