@@ -1,6 +1,8 @@
 # IoT動向
 <hr>
 2015/5/6<br>
+[SAP、「HANA Cloud Platform for IoT」を発表--インテルやシーメンスと提携も](http://japan.zdnet.com/article/35064125/)
+
 [「小さなエネルギーの落ち穂ひろい」がＩｏＴ時代の電源に変わる](http://newswitch.jp/p/511)
 
 [IoTで生み出す“デジタルの双子”、新たに解析企業の買収なども発表 (1/2)](http://monoist.atmarkit.co.jp/mn/articles/1505/06/news008.html)
