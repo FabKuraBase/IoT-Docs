@@ -19,9 +19,10 @@
 
 <hr>
 2015/5/4<br>
-[Mobile payment, IoT, V2V drive NXP revenue to $1.5B
+[Mobile payment, IoT, V2V drive NXP revenue to $1.5B](http://www.eetindia.co.in/ART_8800712066_1800005_NT_ec83a626.HTM)
 
-](http://www.eetindia.co.in/ART_8800712066_1800005_NT_ec83a626.HTM)
+[オムロン「つながる工場」へ賽は投げられた！](http://newswitch.jp/p/500)
+
 2015/5/2<br>
 [ギーク女優・池澤あやか、IoTの魅力は「植物とか金魚と会話できるところ」–女性クリエイター座談会](http://logmi.jp/41983)
 <hr>
