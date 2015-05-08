@@ -21,6 +21,7 @@ ThingWorxは？
 |商品名|会社名|
 | -- | -- |
 | Kii Clound | Kii |
+| [milkcocoa](https://mlkcca.com/) | [](http://www.technicalrockstars.co.jp/)|
 
 # IoT Saas
 
