@@ -3,6 +3,8 @@
 2015/5/7<br>
 [富士通、IoTと介護ロボットを融合するインフラシステム](http://news.mynavi.jp/news/2015/05/07/293/)
 
+[PTC、ドコモや日本システムウエアと協業--日本向けIoTソリューションを共同開発]()
+
 [サムスン、IoTデバイス向けに新チッププラットフォームを発表か](http://japan.cnet.com/news/service/35064104/)
 
 [ＩｏＴにらみ携帯会社買収、売上高1兆円めざす＝ノジマ社長](http://jp.reuters.com/article/technologyNews/idJPKBN0NS2KJ20150507w)
