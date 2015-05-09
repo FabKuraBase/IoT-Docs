@@ -3,6 +3,8 @@
 2015/5/7<br>
 [富士通、IoTと介護ロボットを融合するインフラシステム](http://news.mynavi.jp/news/2015/05/07/293/)
 
+[Marvell unveils ZigBee wireless microcontroller SoC for smart applications at LFI](http://www.ledsmagazine.com/ugc/2015/05/07/marvell-unveils-zigbee-wireless-microcontroller-soc-for-smart-applications-at-lfi.html)
+
 [PTC、ドコモや日本システムウエアと協業--日本向けIoTソリューションを共同開発](http://japan.zdnet.com/article/35064202/)
 
 [サムスン、IoTデバイス向けに新チッププラットフォームを発表か](http://japan.cnet.com/news/service/35064104/)
