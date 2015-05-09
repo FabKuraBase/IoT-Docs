@@ -11,7 +11,7 @@
 
 [ＩｏＴにらみ携帯会社買収、売上高1兆円めざす＝ノジマ社長](http://jp.reuters.com/article/technologyNews/idJPKBN0NS2KJ20150507w)
 
-[ミニサイズのArduino Zero互換ハードウェア「Neutrino」]()
+[ミニサイズのArduino Zero互換ハードウェア「Neutrino」](https://fabcross.jp/news/2015/05/20150507_neutrino.html)
 
 <hr>
 2015/5/6<br>
