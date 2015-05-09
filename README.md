@@ -10,3 +10,5 @@ http://en.wikipedia.org/wiki/Kevin_Ashton
 
 情報のニューディール
 イタリアのトレント
+
+オープンPDS
