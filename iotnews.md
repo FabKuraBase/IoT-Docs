@@ -10,6 +10,9 @@
 [サムスン、IoTデバイス向けに新チッププラットフォームを発表か](http://japan.cnet.com/news/service/35064104/)
 
 [ＩｏＴにらみ携帯会社買収、売上高1兆円めざす＝ノジマ社長](http://jp.reuters.com/article/technologyNews/idJPKBN0NS2KJ20150507w)
+
+[ミニサイズのArduino Zero互換ハードウェア「Neutrino」]()
+
 <hr>
 2015/5/6<br>
 [SAP、「HANA Cloud Platform for IoT」を発表--インテルやシーメンスと提携も](http://japan.zdnet.com/article/35064125/)
