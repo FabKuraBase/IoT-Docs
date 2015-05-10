@@ -1,5 +1,8 @@
 # IoT動向
 <hr>
+2015/5/8<br>
+[](http://forbesjapan.com/summary/2015-06/post_3914.html)
+<hr>
 2015/5/7<br>
 [富士通、IoTと介護ロボットを融合するインフラシステム](http://news.mynavi.jp/news/2015/05/07/293/)
 
