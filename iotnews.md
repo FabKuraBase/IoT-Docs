@@ -1,7 +1,7 @@
 # IoT動向
 <hr>
 2015/5/8<br>
-[](http://forbesjapan.com/summary/2015-06/post_3914.html)
+[ソニー、米投資育成会社WiLと連携でIoT分野へ進出　突破口は「有機的な協働」にあり](http://forbesjapan.com/summary/2015-06/post_3914.html)
 <hr>
 2015/5/7<br>
 [富士通、IoTと介護ロボットを融合するインフラシステム](http://news.mynavi.jp/news/2015/05/07/293/)
