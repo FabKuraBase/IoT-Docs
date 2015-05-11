@@ -9,7 +9,7 @@
 
 [数以上の企業がIoTでサービス・製品の変化を想定―ガートナー](http://zuuonline.com/archives/58570)
 
-[【第19回】IoT時代のシステム構築はイベントドリブン型になる]()
+[【第19回】IoT時代のシステム構築はイベントドリブン型になる](http://it.impressbm.co.jp/articles/-/12287)
 
 <hr>
 2015/5/8<br>
