@@ -11,7 +11,7 @@
 
 [【第19回】IoT時代のシステム構築はイベントドリブン型になる](http://it.impressbm.co.jp/articles/-/12287)
 
-[ニフティクラウド、IoT向け機能の提供開始]()
+[ニフティクラウド、IoT向け機能の提供開始](http://www.itmedia.co.jp/enterprise/articles/1505/11/news115.html)
 
 <hr>
 2015/5/8<br>
