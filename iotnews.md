@@ -7,7 +7,7 @@
 
 [IoTのインパクト（1）---IoTがビジネスにもたらす4つの価値とは](http://itpro.nikkeibp.co.jp/atclact/active/14/369470/041000009/)
 
-[数以上の企業がIoTでサービス・製品の変化を想定―ガートナー]()
+[数以上の企業がIoTでサービス・製品の変化を想定―ガートナー](http://zuuonline.com/archives/58570)
 
 <hr>
 2015/5/8<br>
