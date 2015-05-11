@@ -5,7 +5,7 @@
 
 [富士通、IoT活用のLSIやミドルウェアをパッケージ化--HMDも提供](http://japan.zdnet.com/article/35064317/)
 
-[IoTのインパクト（1）---IoTがビジネスにもたらす4つの価値とは]()
+[IoTのインパクト（1）---IoTがビジネスにもたらす4つの価値とは](http://itpro.nikkeibp.co.jp/atclact/active/14/369470/041000009/)
 
 <hr>
 2015/5/8<br>
