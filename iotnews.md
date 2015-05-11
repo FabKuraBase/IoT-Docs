@@ -11,6 +11,8 @@
 
 [【第19回】IoT時代のシステム構築はイベントドリブン型になる](http://it.impressbm.co.jp/articles/-/12287)
 
+[ニフティクラウド、IoT向け機能の提供開始]()
+
 <hr>
 2015/5/8<br>
 [ソニー、米投資育成会社WiLと連携でIoT分野へ進出　突破口は「有機的な協働」にあり](http://forbesjapan.com/summary/2015-06/post_3914.html)
