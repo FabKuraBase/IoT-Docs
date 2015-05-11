@@ -7,6 +7,8 @@
 
 [IoTのインパクト（1）---IoTがビジネスにもたらす4つの価値とは](http://itpro.nikkeibp.co.jp/atclact/active/14/369470/041000009/)
 
+[数以上の企業がIoTでサービス・製品の変化を想定―ガートナー]()
+
 <hr>
 2015/5/8<br>
 [ソニー、米投資育成会社WiLと連携でIoT分野へ進出　突破口は「有機的な協働」にあり](http://forbesjapan.com/summary/2015-06/post_3914.html)
