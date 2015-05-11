@@ -9,6 +9,8 @@
 
 [数以上の企業がIoTでサービス・製品の変化を想定―ガートナー](http://zuuonline.com/archives/58570)
 
+[【第19回】IoT時代のシステム構築はイベントドリブン型になる]()
+
 <hr>
 2015/5/8<br>
 [ソニー、米投資育成会社WiLと連携でIoT分野へ進出　突破口は「有機的な協働」にあり](http://forbesjapan.com/summary/2015-06/post_3914.html)
