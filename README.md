@@ -15,3 +15,6 @@ http://en.wikipedia.org/wiki/Kevin_Ashton
 
 EnOcean
 http://www.rohm.co.jp/web/japan/enocean
+
+Profibus
+http://www.profibus.jp/what_is/profinet2.htm
