@@ -1,5 +1,8 @@
 # IoT動向
 <hr>
+2015/5/11<br>
+[ぷらっとホーム、IoT・M2Mシステムの構築に最適なオールインワンの「OpenBlocks(R) IoT EX1」を発表](http://www.sankei.com/economy/news/150511/prl1505110021-n1.html)
+<hr>
 2015/5/8<br>
 [ソニー、米投資育成会社WiLと連携でIoT分野へ進出　突破口は「有機的な協働」にあり](http://forbesjapan.com/summary/2015-06/post_3914.html)
 <hr>
