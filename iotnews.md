@@ -3,6 +3,8 @@
 2015/5/11<br>
 [ぷらっとホーム、IoT・M2Mシステムの構築に最適なオールインワンの「OpenBlocks(R) IoT EX1」を発表](http://www.sankei.com/economy/news/150511/prl1505110021-n1.html)
 
+[Canonicalがエイサー、マイクロソフト、DataArtらとIoTで提携](http://japan.zdnet.com/article/35064344/)
+
 [富士通、IoT活用のLSIやミドルウェアをパッケージ化--HMDも提供](http://japan.zdnet.com/article/35064317/)
 
 [IoTのインパクト（1）---IoTがビジネスにもたらす4つの価値とは](http://itpro.nikkeibp.co.jp/atclact/active/14/369470/041000009/)
