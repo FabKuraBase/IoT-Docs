@@ -1,5 +1,9 @@
 # IoT動向
 <hr>
+2015/5/12<br>
+
+[IoT専門の企画会社を設立 博報堂グループのスパイスボックス](http://www.advertimes.com/20150512/article191838/)
+<hr>
 2015/5/11<br>
 [ぷらっとホーム、IoT・M2Mシステムの構築に最適なオールインワンの「OpenBlocks(R) IoT EX1」を発表](http://www.sankei.com/economy/news/150511/prl1505110021-n1.html)
 
