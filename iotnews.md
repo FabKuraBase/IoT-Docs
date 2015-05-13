@@ -310,7 +310,7 @@ IoTは総合格闘技である ～組み込み、IT、インフラ、セキュ�
 [What to expect next: A cloud platform for the Internet of things](http://venturebeat.com/2015/01/08/what-to-expect-next-a-cloud-platform-for-the-internet-of-things/)
 <hr>
 2015/1/7<br>
-[](http://japan.cnet.com/news/service/35058697/)
+[インテル、ウェアラブル用ボタンサイズチップ「Curie」を披露](http://japan.cnet.com/news/service/35058697/)
 <hr>
 2014/12/5<br>
 [ヤフーがIoT促進に開発支援プラットフォームを提供、ワイモバイルとの連携も](http://monoist.atmarkit.co.jp/mn/articles/1412/05/news056.html)
