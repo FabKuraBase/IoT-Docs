@@ -5,7 +5,7 @@
 
 [不正コピー防止技術の米企業が、IoTセキュリティに参入する理由](http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051200248/)
 
-[ＮＥＣ、ＩｏＴ活用で５５４社と横断組織－スマートファクトリー構築支援]()
+[ＮＥＣ、ＩｏＴ活用で５５４社と横断組織－スマートファクトリー構築支援](http://www.nikkan.co.jp/news/nkx0220150514aacj.html)
 <hr>
 2015/5/13<br>
 [富士通、インテルとIoTプラットフォーム連携で合意　融合型プラットフォームも (1/2)](http://www.itmedia.co.jp/enterprise/articles/1505/13/news166.html)
