@@ -6,6 +6,8 @@
 [不正コピー防止技術の米企業が、IoTセキュリティに参入する理由](http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051200248/)
 <hr>
 2015/5/13<br>
+[富士通、インテルとIoTプラットフォーム連携で合意　融合型プラットフォームも (1/2)](http://www.itmedia.co.jp/enterprise/articles/1505/13/news166.html)
+
 [日の丸半導体 合理化一巡　ルネサス、設立５年で初の黒字 ](http://www.nikkei.com/article/DGXLASDZ12HYY_S5A510C1TJ2000/)
 
 [サムスン、IoT向けチップ「ARTIK」を発表](http://japan.cnet.com/news/service/35064424/)
