@@ -2,6 +2,8 @@
 <hr>
 2015/5/13<br>
 [日の丸半導体 合理化一巡　ルネサス、設立５年で初の黒字 ](http://www.nikkei.com/article/DGXLASDZ12HYY_S5A510C1TJ2000/)
+
+[サムスン、IoT向けチップ「ARTIK」を発表](http://japan.cnet.com/news/service/35064424/)
 <hr>
 2015/5/12<br>
 [IoT専門の企画会社を設立 博報堂グループのスパイスボックス](http://www.advertimes.com/20150512/article191838/)
