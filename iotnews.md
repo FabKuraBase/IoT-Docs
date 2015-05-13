@@ -1,5 +1,8 @@
 # IoT動向
 <hr>
+2015/5/14<br>
+[既に起こった未来が起点に--IoTが変えるサプライチェーンの可能性](http://japan.zdnet.com/article/35064471/)
+<hr>
 2015/5/13<br>
 [日の丸半導体 合理化一巡　ルネサス、設立５年で初の黒字 ](http://www.nikkei.com/article/DGXLASDZ12HYY_S5A510C1TJ2000/)
 
