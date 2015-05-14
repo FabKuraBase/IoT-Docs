@@ -4,4 +4,6 @@
 [ArduinoとRaspberry Piのいいとこ取りした新ハードウェア「UDOO Neo」](https://fabcross.jp/news/2015/05/20150512_udoo_neo.html)
 
 [カード型のゲームボーイ風8bitゲーム機 Arduboy。USBコントローラやArduinoコーディング教材にも](http://japanese.engadget.com/2015/05/12/8bit-arduboy-usb-arduino/)
+
+[Microsoft、Raspberry Pi 2で動作する「Windows 10」のプレビュー版をリリース、Arduinoとの提携も発表]()
 <hr>
