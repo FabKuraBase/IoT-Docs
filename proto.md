@@ -3,7 +3,7 @@
 2015/5/14<br>
 [Samsung introduces Arduino-like open development platform named ARTIK](http://phandroid.com/2015/05/14/samsung-artik/)
 
-[手軽で安価なIoT開発プラットフォーム「Esquilo」]()
+[手軽で安価なIoT開発プラットフォーム「Esquilo」](https://fabcross.jp/news/2015/05/20150514_esquiloio.html)
 <hr>
 2015/5/12<br>
 [ArduinoとRaspberry Piのいいとこ取りした新ハードウェア「UDOO Neo」](https://fabcross.jp/news/2015/05/20150512_udoo_neo.html)
