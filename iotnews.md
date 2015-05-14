@@ -5,6 +5,8 @@
 
 [IoT、ウェアラブル、デジタルサイネージなど新規分野の市場性--ノークリサーチ](http://japan.zdnet.com/article/35064463/)
 
+[自律するM2MでIndustry 4.0を現実に、ルネサスが産業用IoTでアピール](http://techon.nikkeibp.co.jp/article/EVENT/20150513/418180/?ST=lsi&P=1)
+
 [不正コピー防止技術の米企業が、IoTセキュリティに参入する理由](http://itpro.nikkeibp.co.jp/atcl/column/14/346926/051200248/)
 
 [ＮＥＣ、ＩｏＴ活用で５５４社と横断組織－スマートファクトリー構築支援](http://www.nikkan.co.jp/news/nkx0220150514aacj.html)
