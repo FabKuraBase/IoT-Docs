@@ -5,5 +5,5 @@
 
 [カード型のゲームボーイ風8bitゲーム機 Arduboy。USBコントローラやArduinoコーディング教材にも](http://japanese.engadget.com/2015/05/12/8bit-arduboy-usb-arduino/)
 
-[Microsoft、Raspberry Pi 2で動作する「Windows 10」のプレビュー版をリリース、Arduinoとの提携も発表]()
+[Microsoft、Raspberry Pi 2で動作する「Windows 10」のプレビュー版をリリース、Arduinoとの提携も発表](http://itpro.nikkeibp.co.jp/atcl/idg/14/481709/051100089/)
 <hr>
