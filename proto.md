@@ -20,4 +20,4 @@
 [ミニサイズのArduino Zero互換ハードウェア「Neutrino」](https://fabcross.jp/news/2015/05/20150507_neutrino.html)
 <hr>
 2015/4/21<br>
-[Wi-Fi、有機ELディスプレイ、SRAM、SDスロットまで備えた小型Arduinoデバイス]()
+[Wi-Fi、有機ELディスプレイ、SRAM、SDスロットまで備えた小型Arduinoデバイス](https://fabcross.jp/news/2015/04/20150421_piccolino.html)
