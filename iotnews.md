@@ -8,6 +8,8 @@
 [ＮＥＣ、ＩｏＴ活用で５５４社と横断組織－スマートファクトリー構築支援](http://www.nikkan.co.jp/news/nkx0220150514aacj.html)
 <hr>
 2015/5/13<br>
+[もう知らないでは済まされない、注目のキーワード”IoT” -サンフランシスコで注目のIoTスタートアップ8選-]()
+
 [富士通、インテルとIoTプラットフォーム連携で合意　融合型プラットフォームも (1/2)](http://www.itmedia.co.jp/enterprise/articles/1505/13/news166.html)
 
 [日の丸半導体 合理化一巡　ルネサス、設立５年で初の黒字 ](http://www.nikkei.com/article/DGXLASDZ12HYY_S5A510C1TJ2000/)
