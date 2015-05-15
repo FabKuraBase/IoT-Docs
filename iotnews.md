@@ -75,7 +75,7 @@
 [SAP Unveils SAP HANA Cloud Platform for the Internet of Things - See more at: http://www.news-sap.com/sapphire-now-sap-hana-cloud-platform-for-the-iot/#sthash.xiMZkBLb.dpuf](http://www.news-sap.com/sapphire-now-sap-hana-cloud-platform-for-the-iot/)
 <hr>
 2015/5/5<br>
-[](http://iphone-mania.jp/news-70728/)
+[GEの時間帯によって色が変わる新LED、アップルのHomeKitに対応](http://iphone-mania.jp/news-70728/)
 <hr>
 2015/5/4<br>
 [Mobile payment, IoT, V2V drive NXP revenue to $1.5B](http://www.eetindia.co.in/ART_8800712066_1800005_NT_ec83a626.HTM)
