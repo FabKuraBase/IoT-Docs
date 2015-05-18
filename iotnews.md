@@ -7,7 +7,7 @@
 
 [MODE: スマートデバイスを管理するIoTプラットフォーム](http://www.infoq.com/jp/news/2015/05/mode)
 
-[IoT機器向け無線モジュール、複数の無線通信規格に1個で対応]()
+[IoT機器向け無線モジュール、複数の無線通信規格に1個で対応](http://eetimes.jp/ee/articles/1505/18/news068.html)
 
 <hr>
 2015/5/15<br>
