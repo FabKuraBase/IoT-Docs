@@ -5,7 +5,7 @@
 
 [IoTではLPWAネットワークが鍵、本格普及が始まる](http://eetimes.jp/ee/articles/1505/18/news048.html)
 
-[](http://www.infoq.com/jp/news/2015/05/mode)
+[MODE: スマートデバイスを管理するIoTプラットフォーム](http://www.infoq.com/jp/news/2015/05/mode)
 
 <hr>
 2015/5/15<br>
