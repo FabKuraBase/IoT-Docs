@@ -3,7 +3,7 @@
 2015/5/18<br>
 [【第19回】IoTを成功に導く4つのモデル](http://it.impressbm.co.jp/articles/-/12358)
 
-[IoTではLPWAネットワークが鍵、本格普及が始まる]()
+[IoTではLPWAネットワークが鍵、本格普及が始まる](http://eetimes.jp/ee/articles/1505/18/news048.html)
 
 <hr>
 2015/5/15<br>
