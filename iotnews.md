@@ -6,6 +6,9 @@
 [IoTビジネスを考える上で半導体トレンドを知ることは重要](http://diamond.jp/articles/-/71831)
 
 [［第3回］極小のIoTモジュール「Edison」（1）](http://itpro.nikkeibp.co.jp/atcl/column/15/043000111/043000003/)
+
+[IoTはサイバー犯罪者の新たな標的「脅威のインターネット」時代に備えよ ――ユージン・カスペルスキーカスペルスキー最高経営責任者に聞く]()
+
 <hr>
 2015/5/18<br>
 [【第19回】IoTを成功に導く4つのモデル](http://it.impressbm.co.jp/articles/-/12358)
