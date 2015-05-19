@@ -1,7 +1,7 @@
 # IoT動向
 <hr>
 2015/5/20<br>
-[IoTビジネスを考える上で半導体トレンドを知ることは重要]()
+[IoTビジネスを考える上で半導体トレンドを知ることは重要](http://diamond.jp/articles/-/71831)
 <hr>
 2015/5/18<br>
 [【第19回】IoTを成功に導く4つのモデル](http://it.impressbm.co.jp/articles/-/12358)
