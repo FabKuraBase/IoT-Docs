@@ -4,6 +4,8 @@
 [アルティマ、IoT/M2M向けメッシュネットワーク・ソリューションを提供](http://news.mynavi.jp/news/2015/05/19/587/)
 
 [IoTビジネスを考える上で半導体トレンドを知ることは重要](http://diamond.jp/articles/-/71831)
+
+[［第3回］極小のIoTモジュール「Edison」（1）]()
 <hr>
 2015/5/18<br>
 [【第19回】IoTを成功に導く4つのモデル](http://it.impressbm.co.jp/articles/-/12358)
