@@ -18,3 +18,9 @@ ARM® Cortex®-M-ベースのMCU群向けに、近代的なフルスタックOS�
 ![](https://mbed.org/assets/uploads/.thumbnails/mbed-os-v2.png/mbed-os-v2-700x467.png)
 
 ![](mbed_partner.png)
+
+Toppers
+
+IPv6対応<br>
+RAMが約11Kバイト<br>
+ROMが約63Kバイト<br>
