@@ -19,8 +19,11 @@ ARM® Cortex®-M-ベースのMCU群向けに、近代的なフルスタックOS�
 
 ![](mbed_partner.png)
 
-Toppers
+Toppers ASP Kernel
 
-IPv6対応<br>
-RAMが約11Kバイト<br>
-ROMが約63Kバイト<br>
+> ASPカーネルの主な適用対象は、高い信頼性・安全性・リアルタイム性を要求される組込みシステムです。ソフトウェア規模の面では、プログラムサイズ（バイナリコード）が数十KB〜1MB程度のシステムを主な適用対象と考えています。それより大規模なシステムには、保護機能を持ったカーネルを適用すべきと考えられます。
+
+https://www.toppers.jp/index.html
+
+
+
