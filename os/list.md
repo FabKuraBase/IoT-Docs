@@ -5,8 +5,10 @@
 | mbedOS | Alcatel-Lucent, Atmel, CSR, ERICSSON, elemnt14, freescale, IBM, KDDI, Marverl, MegaChip, MUKTITECH, NXP, NORDIC, RENESASA, ST, Salesforce, SeeControl, SEMTECH, SILICON LABS, stream, Telefonica, telnor, ThumderSoft, ublox, wot.io, ZEBRA  |
 
 
+Brillio(Googleが発表すると噂の
+OS(32MB RAM以上)
 
-mbedOS
+mbedOS(4KのRAM以上)
 https://mbed.org/technology/os/
 
 > We are creating a modern full-stack operating system, designed for ARM® Cortex®-M-based MCUs; the world's leading 32-bit microcontrollers that already sell in the billions. Inspired by the highly productive programming frameworks and tools of the web, and optimised for energy efficiency, built-in connectivity, security and reusable software components, it will become the foundation that enables widespread innovation in the Internet of Things (IoT) space.
