@@ -1,6 +1,6 @@
 # IoT OS
 
-| 0:0 | 1:0 |
+| 団体名 | パートナー |
 | -- | -- |
 | mbedOS | Alcatel-Lucent, Atmel, CSR, ERICSSON, elemnt14, freescale, IBM, KDDI, Marverl, MegaChip, MUKTITECH, NXP, NORDIC, RENESASA, ST, Salesforce, SeeControl, SEMTECH, SILICON LABS, stream, Telefonica, telnor, ThumderSoft, ublox, wot.io, ZEBRA  |
 
