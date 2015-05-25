@@ -29,3 +29,6 @@ T-Kernel
 > Q11 T-Kernelの必要メモリサイズを教えてください。CPUの種類やシステム構成、タスクなどのオブジェクト数により変動しますが、プログラムサイズは約70KB、データサイズは最低8KB程度です。
 
 http://www.t-engine4u.com/products/devkitfaq.html#q11
+
+Snappy Ubuntu
+http://developer.ubuntu.com/en/snappy/
