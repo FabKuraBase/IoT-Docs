@@ -16,6 +16,8 @@
 2015/5/25<br>
 [SAPの壮大なIoT戦略--センサからERP、そしてビジネスネットワークまで](http://www.sankei.com/economy/news/150526/prl1505260156-n1.html)
 
+[IoT時代の新たな問題? 早くも医療向け機器に脆弱性 - カスペルスキー]()
+
 <hr>
 2015/5/22<br>
 [Qualcomm、実はIoTでも強かった](http://itpro.nikkeibp.co.jp/atcl/news/15/052501716/)
