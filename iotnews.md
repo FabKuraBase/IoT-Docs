@@ -9,7 +9,7 @@
 
 [さいたま県土整備事務所、河川のリアルタイム監視システム導入--IoTを活用](http://japan.zdnet.com/article/35064839/)
 
-[Broadcomの担当者が語ったIoT製品の開発期間短縮を実現するWICEDの現状]()
+[Broadcomの担当者が語ったIoT製品の開発期間短縮を実現するWICEDの現状](http://news.mynavi.jp/articles/2015/05/26/broadcom_wiced/)
 <hr>
 2015/5/25<br>
 [SAPの壮大なIoT戦略--センサからERP、そしてビジネスネットワークまで](http://www.sankei.com/economy/news/150526/prl1505260156-n1.html)
