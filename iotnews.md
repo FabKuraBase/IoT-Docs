@@ -12,7 +12,9 @@
 2015/5/25<br>
 [SAPの壮大なIoT戦略--センサからERP、そしてビジネスネットワークまで](http://www.sankei.com/economy/news/150526/prl1505260156-n1.html)
 
-
+<hr>
+2015/5/22<br>
+[Qualcomm、実はIoTでも強かった](http://itpro.nikkeibp.co.jp/atcl/news/15/052501716/)
 <hr>
 2015/5/20<br>
 [アルティマ、IoT/M2M向けメッシュネットワーク・ソリューションを提供](http://news.mynavi.jp/news/2015/05/19/587/)
