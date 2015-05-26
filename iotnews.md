@@ -7,7 +7,7 @@
 
 [IoTの深層](http://www.sankei.com/economy/news/150526/prl1505260156-n1.html)
 
-[さいたま県土整備事務所、河川のリアルタイム監視システム導入--IoTを活用]()
+[さいたま県土整備事務所、河川のリアルタイム監視システム導入--IoTを活用](http://japan.zdnet.com/article/35064839/)
 
 <hr>
 2015/5/20<br>
