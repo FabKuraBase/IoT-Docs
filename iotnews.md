@@ -3,7 +3,7 @@
 2015/5/26<br>
 [PTC、新たなIoT製品であるThingWorx Converge を発表](http://www.sankei.com/economy/news/150526/prl1505260156-n1.html)
 
-[国内で初めて全IoT端末から送信されるデータを自動受信・検知・制御　IoT OS「SINGULARITY」2015年6月下旬より提供開始]()
+[国内で初めて全IoT端末から送信されるデータを自動受信・検知・制御　IoT OS「SINGULARITY」2015年6月下旬より提供開始](http://www.sankei.com/economy/news/150526/prl1505260156-n1.html)
 <hr>
 2015/5/20<br>
 [アルティマ、IoT/M2M向けメッシュネットワーク・ソリューションを提供](http://news.mynavi.jp/news/2015/05/19/587/)
