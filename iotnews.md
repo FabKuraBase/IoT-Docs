@@ -1,7 +1,7 @@
 # IoT動向
 <hr>
 2015/5/26<br>
-[PTC、新たなIoT製品であるThingWorx Converge を発表]()
+[PTC、新たなIoT製品であるThingWorx Converge を発表](http://www.sankei.com/economy/news/150526/prl1505260156-n1.html)
 <hr>
 2015/5/20<br>
 [アルティマ、IoT/M2M向けメッシュネットワーク・ソリューションを提供](http://news.mynavi.jp/news/2015/05/19/587/)
