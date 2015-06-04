@@ -13,7 +13,7 @@
 
 [ＩｏＴ世界市場が現在の3倍増、20年までに＝調査会社](http://jp.reuters.com/article/topNews/idJPKBN0OI1U220150602)
 
-[「IoT×過疎地域　最先端の技術で最先端の課題に挑む」学生向け夏期インターン開発合宿の開催]()
+[「IoT×過疎地域　最先端の技術で最先端の課題に挑む」学生向け夏期インターン開発合宿の開催](http://www.sankei.com/economy/news/150603/prl1506030127-n1.html)
 
 <hr>
 2015/6/2<br>
