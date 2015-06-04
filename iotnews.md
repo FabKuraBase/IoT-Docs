@@ -54,7 +54,7 @@ Rockchipが最小電力のWiFiを発表　IoT電力消費を85%軽減しBT 4.0 L
 [【ワイヤレスジャパン】PTCジャパン、ビジネスモデルを変革する海外のIoT事例を紹介](http://businessnetwork.jp/Detail/tabid/65/artid/4002/Default.aspx)
 <hr>
 2015/5/27<br>
-[Bluetooth Smartで照明制御、太陽誘電がデモ]()
+[Bluetooth Smartで照明制御、太陽誘電がデモ](http://techon.nikkeibp.co.jp/article/NEWS/20150527/420385/)
 <hr>
 2015/5/26<br>
 [PTC、新たなIoT製品であるThingWorx Converge を発表](http://www.sankei.com/economy/news/150526/prl1505260156-n1.html)
