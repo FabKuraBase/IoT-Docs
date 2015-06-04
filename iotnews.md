@@ -17,6 +17,7 @@
 
 [IoT団体「AllSeen」にルネサスやZTE、ASUSが加盟](http://k-tai.impress.co.jp/docs/news/20150603_705159.html)
 
+[IoT戦略の“次の一手”は？　Citrixのトップに聞く (1/2)]()
 <hr>
 2015/6/2<br>
 [ARM、IoT開発を促進するCortex-MベースのサブシステムIP
