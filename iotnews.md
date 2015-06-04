@@ -44,7 +44,7 @@ Rockchipが最小電力のWiFiを発表　IoT電力消費を85%軽減しBT 4.0 L
 
 [ハックベンチャーズ　100億円ファンド組成　米シリコンバレーIoTベンチャーに投資](http://venturetimes.jp/venture-news/2031.html)
 
-[Samsungが大邱市でIoTによるヘルスケア実証実験]()
+[Samsungが大邱市でIoTによるヘルスケア実証実験](http://techon.nikkeibp.co.jp/article/COLUMN/20150527/420387/?ST=ndh)
 
 <hr>
 2015/5/30<br>
