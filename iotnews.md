@@ -30,7 +30,9 @@
 [マイケル・ポーター教授が語る、IoT時代の競争戦略　IoTによる変革の本質は何なのか](http://www.sbbit.jp/article/cont1/29763)
 
 [富士通 田中達也 新社長、世界攻勢に向けて「IoT」事業を強化　4つの“目玉商品”も](http://www.sbbit.jp/article/cont1/29770)
-
+<hr>
+2015/6/1<br>
+[【第20回】IoT活用で問われているのは発想力、ブレインライティングが有効]()
 <hr>
 2015/5/30<br>
 [「Windows 10 IoT」とはどのようなOSなのか？ (1/3)](http://www.itmedia.co.jp/pcuser/articles/1505/30/news016.html)
