@@ -5,6 +5,8 @@
 
 [2020年、IoTはネットワークと社会をどう変えるのか（前編）](http://wirelesswire.jp/2015/06/31140/)
 
+[AWSが3つの新サービス日本投入を発表、IoT支援を本格化](http://itpro.nikkeibp.co.jp/atcl/news/15/060401877/)
+
 <hr>
 2015/6/3<br>
 [東芝とMicrosoftがIoTで提携　東芝製センサーとAzureを連携](http://www.itmedia.co.jp/news/articles/1506/03/news124.html)
