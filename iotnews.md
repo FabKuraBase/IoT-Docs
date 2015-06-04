@@ -1,5 +1,9 @@
 # IoT動向
 <hr>
+2015/6/3<br>
+[東芝とMicrosoftがIoTで提携　東芝製センサーとAzureを連携](http://www.itmedia.co.jp/news/articles/1506/03/news124.html)
+
+<hr>
 2015/5/26<br>
 [PTC、新たなIoT製品であるThingWorx Converge を発表](http://www.sankei.com/economy/news/150526/prl1505260156-n1.html)
 
