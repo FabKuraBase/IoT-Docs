@@ -83,7 +83,7 @@ Rockchipが最小電力のWiFiを発表　IoT電力消費を85%軽減しBT 4.0 L
 2015/5/21<br>
 [大きな可能性を秘めた IoTによる仕事環境の自動化](http://news.biglobe.ne.jp/economy/0521/dol_150521_8845089378.html)
 
-[乱立するIoTやM2Mの標準化とアライアンス、メジャーはこれだ]()
+[乱立するIoTやM2Mの標準化とアライアンス、メジャーはこれだ](http://techon.nikkeibp.co.jp/article/EVENT/20150521/419543/?rt=nocnt)
 
 <hr>
 2015/5/20<br>
