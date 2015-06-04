@@ -64,6 +64,8 @@
 <hr>
 2015/5/22<br>
 [Qualcomm、実はIoTでも強かった](http://itpro.nikkeibp.co.jp/atcl/news/15/052501716/)
+
+[IoTで「儲かる業態」になるシステムインテグレーター]()
 <hr>
 2015/5/20<br>
 [アルティマ、IoT/M2M向けメッシュネットワーク・ソリューションを提供](http://news.mynavi.jp/news/2015/05/19/587/)
