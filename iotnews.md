@@ -10,6 +10,8 @@
 [ARM、IoT開発を促進するCortex-MベースのサブシステムIP
 ](http://pc.watch.impress.co.jp/docs/news/event/20150602_704908.html)
 
+[グーグルのIoT向けOS「Brillo」--アップル「HomeKit」との比較から考える可能性](http://japan.cnet.com/news/commentary/35065208/)
+
 <hr>
 2015/5/26<br>
 [PTC、新たなIoT製品であるThingWorx Converge を発表](http://www.sankei.com/economy/news/150526/prl1505260156-n1.html)
