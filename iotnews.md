@@ -14,7 +14,9 @@
 ](http://pc.watch.impress.co.jp/docs/news/event/20150602_704908.html)
 
 [グーグルのIoT向けOS「Brillo」--アップル「HomeKit」との比較から考える可能性](http://japan.cnet.com/news/commentary/35065208/)
-
+<hr>
+2015/6/1<br>
+[国内の製造拠点はIoTで競争力を取り戻す]()
 <hr>
 2015/5/26<br>
 [PTC、新たなIoT製品であるThingWorx Converge を発表](http://www.sankei.com/economy/news/150526/prl1505260156-n1.html)
