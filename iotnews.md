@@ -29,7 +29,7 @@
 [グーグルのIoT向けOS「Brillo」--アップル「HomeKit」との比較から考える可能性](http://japan.cnet.com/news/commentary/35065208/)
 
 [Rockchip
-Rockchipが最小電力のWiFiを発表　IoT電力消費を85%軽減しBT 4.0 LEと同等に]()
+Rockchipが最小電力のWiFiを発表　IoT電力消費を85%軽減しBT 4.0 LEと同等に](http://prw.kyodonews.jp/opn/release/201506020742/)
 
 <hr>
 2015/6/1<br>
