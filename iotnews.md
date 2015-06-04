@@ -2,6 +2,9 @@
 <hr>
 2015/6/4<br>
 [IoTは「財政難」の公共機関を救えるか？](http://businessnetwork.jp/Detail/tabid/65/artid/4016/Default.aspx)
+
+[2020年、IoTはネットワークと社会をどう変えるのか（前編）](http://wirelesswire.jp/2015/06/31140/)
+
 <hr>
 2015/6/3<br>
 [東芝とMicrosoftがIoTで提携　東芝製センサーとAzureを連携](http://www.itmedia.co.jp/news/articles/1506/03/news124.html)
