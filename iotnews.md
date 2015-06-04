@@ -15,6 +15,8 @@
 
 [「IoT×過疎地域　最先端の技術で最先端の課題に挑む」学生向け夏期インターン開発合宿の開催](http://www.sankei.com/economy/news/150603/prl1506030127-n1.html)
 
+[IoT団体「AllSeen」にルネサスやZTE、ASUSが加盟](http://k-tai.impress.co.jp/docs/news/20150603_705159.html)
+
 <hr>
 2015/6/2<br>
 [ARM、IoT開発を促進するCortex-MベースのサブシステムIP
