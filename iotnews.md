@@ -26,6 +26,9 @@
 <hr>
 2015/6/1<br>
 [国内の製造拠点はIoTで競争力を取り戻す](http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/052800283/)
+
+[マイケル・ポーター教授が語る、IoT時代の競争戦略　IoTによる変革の本質は何なのか](http://www.sbbit.jp/article/cont1/29763)
+
 <hr>
 2015/5/30<br>
 [「Windows 10 IoT」とはどのようなOSなのか？ (1/3)](http://www.itmedia.co.jp/pcuser/articles/1505/30/news016.html)
