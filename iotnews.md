@@ -19,7 +19,7 @@
 
 [IoT戦略の“次の一手”は？　Citrixのトップに聞く (1/2)](http://www.itmedia.co.jp/enterprise/articles/1506/03/news050.html)
 
-[IoT機器の開発を加速、十円玉サイズのBluetooth対応モジュール]()
+[IoT機器の開発を加速、十円玉サイズのBluetooth対応モジュール](http://eetimes.jp/ee/articles/1506/03/news078.html)
 
 <hr>
 2015/6/2<br>
