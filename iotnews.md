@@ -32,7 +32,7 @@
 [富士通 田中達也 新社長、世界攻勢に向けて「IoT」事業を強化　4つの“目玉商品”も](http://www.sbbit.jp/article/cont1/29770)
 <hr>
 2015/6/1<br>
-[【第20回】IoT活用で問われているのは発想力、ブレインライティングが有効]()
+[【第20回】IoT活用で問われているのは発想力、ブレインライティングが有効](http://it.impressbm.co.jp/articles/-/12422)
 <hr>
 2015/5/30<br>
 [「Windows 10 IoT」とはどのようなOSなのか？ (1/3)](http://www.itmedia.co.jp/pcuser/articles/1505/30/news016.html)
