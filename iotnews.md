@@ -35,6 +35,9 @@
 2015/5/30<br>
 [「Windows 10 IoT」とはどのようなOSなのか？ (1/3)](http://www.itmedia.co.jp/pcuser/articles/1505/30/news016.html)
 <hr>
+2015/5/28<br>
+[【ワイヤレスジャパン】PTCジャパン、ビジネスモデルを変革する海外のIoT事例を紹介]()
+<hr>
 2015/5/26<br>
 [PTC、新たなIoT製品であるThingWorx Converge を発表](http://www.sankei.com/economy/news/150526/prl1505260156-n1.html)
 
