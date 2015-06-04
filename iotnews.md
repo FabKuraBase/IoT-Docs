@@ -2,6 +2,9 @@
 <hr>
 2015/6/3<br>
 [東芝とMicrosoftがIoTで提携　東芝製センサーとAzureを連携](http://www.itmedia.co.jp/news/articles/1506/03/news124.html)
+<hr>
+2015/6/2<br>
+[](http://pc.watch.impress.co.jp/docs/news/event/20150602_704908.html)
 
 <hr>
 2015/5/26<br>
