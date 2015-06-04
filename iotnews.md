@@ -41,6 +41,10 @@ Rockchipが最小電力のWiFiを発表　IoT電力消費を85%軽減しBT 4.0 L
 <hr>
 2015/6/1<br>
 [【第20回】IoT活用で問われているのは発想力、ブレインライティングが有効](http://it.impressbm.co.jp/articles/-/12422)
+
+[ハックベンチャーズ　100億円ファンド組成　米シリコンバレーIoTベンチャーに投資]()
+
+
 <hr>
 2015/5/30<br>
 [「Windows 10 IoT」とはどのようなOSなのか？ (1/3)](http://www.itmedia.co.jp/pcuser/articles/1505/30/news016.html)
