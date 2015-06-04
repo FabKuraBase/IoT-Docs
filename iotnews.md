@@ -27,6 +27,10 @@
 ](http://pc.watch.impress.co.jp/docs/news/event/20150602_704908.html)
 
 [グーグルのIoT向けOS「Brillo」--アップル「HomeKit」との比較から考える可能性](http://japan.cnet.com/news/commentary/35065208/)
+
+[Rockchip
+Rockchipが最小電力のWiFiを発表　IoT電力消費を85%軽減しBT 4.0 LEと同等に]()
+
 <hr>
 2015/6/1<br>
 [国内の製造拠点はIoTで競争力を取り戻す](http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/052800283/)
