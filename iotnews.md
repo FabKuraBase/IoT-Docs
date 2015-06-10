@@ -1,5 +1,9 @@
 # IoT動向
 <hr>
+2015/6/9<br>
+[富士通、ＩｏＴの短期導入可能に　専用クラウドサービス ]()
+<hr>
+
 2015/6/4<br>
 [IoTは「財政難」の公共機関を救えるか？](http://businessnetwork.jp/Detail/tabid/65/artid/4016/Default.aspx)
 
