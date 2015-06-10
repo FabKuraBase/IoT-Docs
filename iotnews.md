@@ -31,6 +31,8 @@
 
 <hr>
 2015/6/3<br>
+[世界のIoT市場、2020年には210兆円規模に＝IDC]()
+
 [東芝とMicrosoftがIoTで提携　東芝製センサーとAzureを連携](http://www.itmedia.co.jp/news/articles/1506/03/news124.html)
 
 [ＩｏＴ世界市場が現在の3倍増、20年までに＝調査会社](http://jp.reuters.com/article/topNews/idJPKBN0OI1U220150602)
