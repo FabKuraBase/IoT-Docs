@@ -18,6 +18,8 @@
 [CAMSSやIoTに積極投資--イベント「XCITE」に見る日本IBMの現在](http://japan.zdnet.com/article/35065640/)
 
 [「ＩｏＴ推進へ官民でデータ共有」　政府関係者ら討論 ](http://www.nikkei.com/article/DGXLASFK09H34_Z00C15A6000000/)
+
+[ＩｏＴの潮流に乗り遅れるな！東芝機械が射出成型機やロボットで予防保全]()
 <hr>
 2015/6/4<br>
 [IoTは「財政難」の公共機関を救えるか？](http://businessnetwork.jp/Detail/tabid/65/artid/4016/Default.aspx)
