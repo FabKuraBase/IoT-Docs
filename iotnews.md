@@ -16,6 +16,8 @@
 [アングル：ＩｏＴが促す半導体メーカーの合併](http://jp.reuters.com/article/topNews/idJPKBN0OP0JE20150609)
 
 [CAMSSやIoTに積極投資--イベント「XCITE」に見る日本IBMの現在](http://japan.zdnet.com/article/35065640/)
+
+[「ＩｏＴ推進へ官民でデータ共有」　政府関係者ら討論 ]()
 <hr>
 2015/6/4<br>
 [IoTは「財政難」の公共機関を救えるか？](http://businessnetwork.jp/Detail/tabid/65/artid/4016/Default.aspx)
