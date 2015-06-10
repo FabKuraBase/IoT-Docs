@@ -3,7 +3,7 @@
 2015/6/9<br>
 [富士通、ＩｏＴの短期導入可能に　専用クラウドサービス ](http://www.nikkei.com/article/DGXLASDZ09HSH_Z00C15A6TI1000/)
 
-[サムスン事業部門社長「ＩｏＴで夢を現実に」 ]()
+[サムスン事業部門社長「ＩｏＴで夢を現実に」 ](http://www.nikkei.com/article/DGXLASFK09H0W_Z00C15A6000000/)
 <hr>
 
 2015/6/4<br>
