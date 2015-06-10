@@ -7,6 +7,7 @@
 
 [「ビッグデータのハブになる、IoT向けデータ収集ツールも強化」](http://itpro.nikkeibp.co.jp/atcl/interview/14/262522/060800164/)
 
+[シアンス・アール　IoTを加速させるインメモリ型の時系列データベースInfiniFluxをクラウドサービスとして提供開始]()
 <hr>
 2015/6/9<br>
 [富士通、ＩｏＴの短期導入可能に　専用クラウドサービス ](http://www.nikkei.com/article/DGXLASDZ09HSH_Z00C15A6TI1000/)
