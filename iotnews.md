@@ -3,7 +3,7 @@
 2015/6/10<br>
 [データ処理の「分散」に妙あり、富士通がIoTデータ活用基盤サービス](http://cloud.watch.impress.co.jp/docs/news/20150610_706263.html)
 
-[シスコ、IoT/IoE普及に備え「あらゆる場所にセキュリティを」戦略]()
+[シスコ、IoT/IoE普及に備え「あらゆる場所にセキュリティを」戦略](http://ascii.jp/elem/000/001/016/1016786/)
 <hr>
 2015/6/9<br>
 [富士通、ＩｏＴの短期導入可能に　専用クラウドサービス ](http://www.nikkei.com/article/DGXLASDZ09HSH_Z00C15A6TI1000/)
