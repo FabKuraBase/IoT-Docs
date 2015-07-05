@@ -13,6 +13,8 @@
 [GEは78兆円の新市場に参入、IoTは事業モデルを転換させる：アクセンチュア調査](http://japan.zdnet.com/article/35066790/)
 
 [IoT時代はGoogle支配にならず日本にも勝機 - "日本のネットの父"、村井氏に聞く"IoT"](http://news.mynavi.jp/articles/2015/07/02/murai/)
+
+[コマツ、IoTで生産から販売まで連携させる改革](http://techon.nikkeibp.co.jp/article/NEWS/20150701/425845/)
 <hr>
 2015/6/30
 <hr>
