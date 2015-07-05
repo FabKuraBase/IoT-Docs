@@ -41,6 +41,10 @@
 
 [IoT時代のマルチデバイス開発環境 ～ 「第30回 エンバカデロ・デベロッパーキャンプ」レポート](http://codezine.jp/article/detail/8774)
 <hr>
+2015/6/14
+<hr>
+[スマート「レンジ」登場、家庭内のIoTセキュリティがより重要に](http://itnp.net/story/1290)
+<hr>
 2015/6/10
 <hr>
 [データ処理の「分散」に妙あり、富士通がIoTデータ活用基盤サービス](http://cloud.watch.impress.co.jp/docs/news/20150610_706263.html)
