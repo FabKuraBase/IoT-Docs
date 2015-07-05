@@ -1,7 +1,10 @@
 <hr>
 2015/7/2
 <hr>
-[](http://sdtimes.com/google-cloud-console-and-microsoft-joins-iot-thread-group-and-releases-windows-application-insights-sdk-1-0-0-sd-times-news-digest-july-2-2015/)
+[Google Cloud Console, and Microsoft joins IoT Thread Group and releases Windows Application Insights SDK 1.0.0—SD Times news digest: July 2, 2015
+
+Read more: http://sdtimes.com/google-cloud-console-and-microsoft-joins-iot-thread-group-and-releases-windows-application-insights-sdk-1-0-0-sd-times-news-digest-july-2-2015/#ixzz3f0Ve43Ez 
+Follow us: @sdtimes on Twitter | sdtimes on Facebook](http://sdtimes.com/google-cloud-console-and-microsoft-joins-iot-thread-group-and-releases-windows-application-insights-sdk-1-0-0-sd-times-news-digest-july-2-2015/)
 <hr>
 2015/7/1
 <hr>
