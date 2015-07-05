@@ -9,6 +9,10 @@
 [日立が超小型センサー　ＩｏＴで部品データ収集 ](http://www.nikkei.com/article/DGXLASDZ01I8Q_S5A700C1MM8000/)
 [GEは78兆円の新市場に参入、IoTは事業モデルを転換させる：アクセンチュア調査](http://japan.zdnet.com/article/35066790/)
 <hr>
+2015/6/30
+<hr>
+[自動運転、IoT、人工知能、いずれにも必須のMEMS技術](http://techon.nikkeibp.co.jp/article/COLUMN/20150629/425543/?bpnet)
+<hr>
 2015/6/29
 <hr>
 [インテル、クアルコム、Mozilla、それぞれが取り組むIoT](http://japan.zdnet.com/article/35066317/)
