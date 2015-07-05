@@ -32,6 +32,8 @@
 <hr>
 2015/6/26
 [製造業向けIoTビジネスが拡大、富士通やNEC、NTTデータなどが乗り出す](http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062400286/)
+
+[ＮＴＴデータ、ＩｏＴ技術使った３Ｄプリンターの保守実証実験を７月から開始](http://www.nikkan.co.jp/news/nkx0220150626bfao.html)
 <hr>
 2015/6/24
 <hr>
