@@ -26,6 +26,8 @@
 2015/6/25
 <hr>
 [モノのインターネット（IoT）の不都合な真実](http://codezine.jp/article/detail/8770)
+
+[日本は「IoTものづくり」でグローバル競争を勝ち抜けるか](http://japan.zdnet.com/article/35066441/)
 <hr>
 2015/6/10
 <hr>
