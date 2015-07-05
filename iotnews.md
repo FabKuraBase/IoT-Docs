@@ -21,6 +21,8 @@
 2015/6/29
 <hr>
 [インテル、クアルコム、Mozilla、それぞれが取り組むIoT](http://japan.zdnet.com/article/35066317/)
+
+[IoTの成長分野はスマート工場、医療、小売](http://techon.nikkeibp.co.jp/article/NEWS/20150629/425542/)
 <hr>
 2015/6/26
 [製造業向けIoTビジネスが拡大、富士通やNEC、NTTデータなどが乗り出す](http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062400286/)
