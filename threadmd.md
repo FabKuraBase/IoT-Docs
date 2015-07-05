@@ -7,4 +7,4 @@
 <hr>
 2015/6/30
 <hr>
-[フリースケール,シングルチップでマルチプロトコルBluetooth(R) Smart/IEEE(R) 802.15.4無線に対応するKinetisマイクロコントローラ･ポートフォリオを発表]()
+[フリースケール,シングルチップでマルチプロトコルBluetooth(R) Smart/IEEE(R) 802.15.4無線に対応するKinetisマイクロコントローラ･ポートフォリオを発表](http://www.elisnet.or.jp/news/news_detail.cfm?select_news_id=26170)
