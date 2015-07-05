@@ -95,6 +95,8 @@
 [ＩｏＴの潮流に乗り遅れるな！東芝機械が射出成型機やロボットで予防保全](http://newswitch.jp/p/913)
 
 [ＩｏＴ、産学官で推進を提言　14年度版ものづくり白書 ](http://www.nikkei.com/article/DGXLASFS09H0D_Z00C15A6EAF000/)
+
+[ＩｏＴの潮流に乗り遅れるな！東芝機械が射出成型機やロボットで予防保全](https://newswitch.jp/p/913)
 <hr>
 2015/6/4<br>
 [IoTは「財政難」の公共機関を救えるか？](http://businessnetwork.jp/Detail/tabid/65/artid/4016/Default.aspx)
