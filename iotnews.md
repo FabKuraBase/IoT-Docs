@@ -49,6 +49,10 @@
 
 [日本は「IoTものづくり」でグローバル競争を勝ち抜けるか](http://japan.zdnet.com/article/35066441/)
 <hr>
+2015/6/19
+<hr>
+[携帯電話やIoT向けの新しい電話番号、検討へ]()
+<hr>
 2015/6/16
 <hr>
 [ルネサスがIoT向け半導体に本格参入](http://techon.nikkeibp.co.jp/article/MAG/20150615/423263/)
