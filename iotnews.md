@@ -25,6 +25,10 @@
 2015/6/26
 [製造業向けIoTビジネスが拡大、富士通やNEC、NTTデータなどが乗り出す](http://itpro.nikkeibp.co.jp/atcl/column/14/346926/062400286/)
 <hr>
+2015/6/23
+<hr>
+[日本電産と日本IBM、IoTに向けビッグデータ解析に共同で取り組み](http://news.mynavi.jp/news/2015/06/23/205/)
+<hr>
 2015/6/25
 <hr>
 [モノのインターネット（IoT）の不都合な真実](http://codezine.jp/article/detail/8770)
