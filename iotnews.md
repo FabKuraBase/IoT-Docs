@@ -80,6 +80,8 @@
 [シアンス・アール　IoTを加速させるインメモリ型の時系列データベースInfiniFluxをクラウドサービスとして提供開始](http://japan.cnet.com/release/30105196/)
 
 [ホリエモンのIoT未来論「仕事の無人化は進むけど、怯える必要はない」](http://businessnetwork.jp/Detail/tabid/65/artid/4025/Default.aspx)
+
+[安川電機のＩｏＴサービス、そろり始動](https://newswitch.jp/p/926)
 <hr>
 2015/6/9<br>
 [富士通、ＩｏＴの短期導入可能に　専用クラウドサービス ](http://www.nikkei.com/article/DGXLASDZ09HSH_Z00C15A6TI1000/)
