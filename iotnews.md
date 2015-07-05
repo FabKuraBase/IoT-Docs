@@ -3,6 +3,8 @@
 2015/7/3
 <hr>
 [IoTで芽吹き始めたアメリカの新しいモノ作り](http://business.nikkeibp.co.jp/atcl/opinion/15/216773/070100003/?rt=nocnt)
+
+[日立オートモティブ、IoT向けひずみセンサーを量産](http://techon.nikkeibp.co.jp/article/NEWS/20150703/426200/)
 <hr>
 2015/7/2
 <hr>
