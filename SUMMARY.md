@@ -2,6 +2,7 @@
 
 * [はじめに](README.md)
 * [IoT動向](iotnews.md)
+* [Thread動向](thread.md)
 * [IoTマーケティング](iotmarket.md)
 * [Iot標準化](iotstandard.md)
 * [IoT Paas](iotpass.md)
