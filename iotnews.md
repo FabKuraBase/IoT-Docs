@@ -65,6 +65,10 @@
 <hr>
 [スマート「レンジ」登場、家庭内のIoTセキュリティがより重要に](http://itnp.net/story/1290)
 <hr>
+2015/6/11
+<hr>
+[ＩoＴなどで産業・就業構造の変革に対応＝成長戦略の骨子案](http://jp.reuters.com/article/topNews/idJPKBN0OR0B120150611)
+<hr>
 2015/6/10
 <hr>
 [データ処理の「分散」に妙あり、富士通がIoTデータ活用基盤サービス](http://cloud.watch.impress.co.jp/docs/news/20150610_706263.html)
