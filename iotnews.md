@@ -7,7 +7,10 @@
 2015/7/2
 <hr>
 [日立が超小型センサー　ＩｏＴで部品データ収集 ](http://www.nikkei.com/article/DGXLASDZ01I8Q_S5A700C1MM8000/)
+
 [GEは78兆円の新市場に参入、IoTは事業モデルを転換させる：アクセンチュア調査](http://japan.zdnet.com/article/35066790/)
+
+[IoT時代はGoogle支配にならず日本にも勝機 - "日本のネットの父"、村井氏に聞く"IoT"](http://news.mynavi.jp/articles/2015/07/02/murai/)
 <hr>
 2015/6/30
 <hr>
