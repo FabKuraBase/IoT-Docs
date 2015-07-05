@@ -17,6 +17,10 @@
 <hr>
 [インテル、クアルコム、Mozilla、それぞれが取り組むIoT](http://japan.zdnet.com/article/35066317/)
 <hr>
+2015/6/25
+<hr>
+[モノのインターネット（IoT）の不都合な真実](http://codezine.jp/article/detail/8770)
+<hr>
 2015/6/10<br>
 [データ処理の「分散」に妙あり、富士通がIoTデータ活用基盤サービス](http://cloud.watch.impress.co.jp/docs/news/20150610_706263.html)
 
