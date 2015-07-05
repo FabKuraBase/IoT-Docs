@@ -16,6 +16,10 @@
 
 [コマツ、IoTで生産から販売まで連携させる改革](http://techon.nikkeibp.co.jp/article/NEWS/20150701/425845/)
 <hr>
+2015/7/1
+<hr>
+[楽譜が読めなくても弾ける、スマートピアノ](http://iotnews.jp/archives/1785)
+<hr>
 2015/6/30
 <hr>
 [自動運転、IoT、人工知能、いずれにも必須のMEMS技術](http://techon.nikkeibp.co.jp/article/COLUMN/20150629/425543/?bpnet)
