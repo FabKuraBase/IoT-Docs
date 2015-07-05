@@ -1,4 +1,7 @@
-
+<hr>
+2015/7/2
+<hr>
+[](http://sdtimes.com/google-cloud-console-and-microsoft-joins-iot-thread-group-and-releases-windows-application-insights-sdk-1-0-0-sd-times-news-digest-july-2-2015/)
 <hr>
 2015/7/1
 <hr>
