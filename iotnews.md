@@ -2,7 +2,7 @@
 <hr>
 2015/7/3
 <hr>
-[IoTで芽吹き始めたアメリカの新しいモノ作り]()
+[IoTで芽吹き始めたアメリカの新しいモノ作り](http://business.nikkeibp.co.jp/atcl/opinion/15/216773/070100003/?rt=nocnt)
 <hr>
 2015/6/10<br>
 [データ処理の「分散」に妙あり、富士通がIoTデータ活用基盤サービス](http://cloud.watch.impress.co.jp/docs/news/20150610_706263.html)
