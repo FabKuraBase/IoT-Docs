@@ -38,6 +38,9 @@
 2015/6/16
 <hr>
 [ルネサスがIoT向け半導体に本格参入](http://techon.nikkeibp.co.jp/article/MAG/20150615/423263/)
+
+[IoT時代のマルチデバイス開発環境 ～ 「第30回 エンバカデロ・デベロッパーキャンプ」レポート](http://codezine.jp/article/detail/8774)
+<hr>
 2015/6/10
 <hr>
 [データ処理の「分散」に妙あり、富士通がIoTデータ活用基盤サービス](http://cloud.watch.impress.co.jp/docs/news/20150610_706263.html)
